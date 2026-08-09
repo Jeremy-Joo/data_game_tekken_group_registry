@@ -4,42 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "플레이어네임을…",
-   "id": "2qhMn2bDHma6",
-   "registeredAt": 1786245827,
-   "stats": {
-    "id": "2qhMn2bDHma6",
-    "name": "플레이어 네임을 입력해주세요",
-    "fetchedAt": 1786239969,
-    "games": 2208,
-    "lastPlayed": 1786101349,
-    "lastVersion": 30101,
-    "wrOverall": 50.2,
-    "wrRecent200": 60.5,
-    "rating": 1682,
-    "peakRating": 1840,
-    "mainChar": "Xiaoyu",
-    "mainCharGames": 2184,
-    "chars": {
-     "Xiaoyu": {
-      "games": 2184,
-      "wrOverall": 50.4,
-      "wrRecent": 72
-     },
-     "Paul": {
-      "games": 20,
-      "wrOverall": 35,
-      "wrRecent": 35
-     }
-    },
-    "stopAfter": 25,
-    "dropPp": 4,
-    "riseAfter": 10,
-    "risePp": 7.9,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "프리파워",
    "id": "5bY9B4ryGh2a",
    "registeredAt": 1786245829,
@@ -4838,6 +4802,46 @@
     "dropPp": 7.6,
     "riseAfter": 0,
     "risePp": 4,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "플레이어네임을…",
+   "id": "2qhMn2bDHma6",
+   "registeredAt": 1786248356,
+   "stats": {
+    "id": "2qhMn2bDHma6",
+    "name": "플레이어 네임을 입력해주세요",
+    "fetchedAt": 1786248356,
+    "games": 2208,
+    "lastPlayed": 1786101349,
+    "lastVersion": 30101,
+    "wrOverall": 50.2,
+    "wrRecent200": 60.5,
+    "rating": 1682,
+    "peakRating": 1840,
+    "mainChar": "Xiaoyu",
+    "mainCharGames": 2184,
+    "chars": {
+     "Xiaoyu": {
+      "games": 2184,
+      "wrOverall": 50.4,
+      "wrRecent": 72,
+      "rating": 1682,
+      "peakRating": 1840
+     },
+     "Paul": {
+      "games": 20,
+      "wrOverall": 35,
+      "wrRecent": 35,
+      "rating": 1274,
+      "peakRating": 1527
+     }
+    },
+    "stopAfter": 25,
+    "dropPp": 4,
+    "riseAfter": 10,
+    "risePp": 7.9,
     "adviceReliable": true
    }
   }
