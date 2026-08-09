@@ -4,82 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "혹세무민",
-   "id": "3f25Lq5bYTbB",
-   "registeredAt": 1786245793,
-   "stats": {
-    "id": "3f25Lq5bYTbB",
-    "name": "혹세무민",
-    "fetchedAt": 1786239877,
-    "games": 1481,
-    "lastPlayed": 1784373119,
-    "lastVersion": 30101,
-    "wrOverall": 68.1,
-    "wrRecent200": 78,
-    "rating": 2048,
-    "peakRating": 2147,
-    "mainChar": "Jack-8",
-    "mainCharGames": 879,
-    "chars": {
-     "Steve": {
-      "games": 22,
-      "wrOverall": 72.7,
-      "wrRecent": 72.7
-     },
-     "Leroy": {
-      "games": 38,
-      "wrOverall": 81.6,
-      "wrRecent": 81.6
-     },
-     "Devil Jin": {
-      "games": 32,
-      "wrOverall": 75,
-      "wrRecent": 75
-     },
-     "Eddy": {
-      "games": 29,
-      "wrOverall": 82.8,
-      "wrRecent": 82.8
-     },
-     "Law": {
-      "games": 87,
-      "wrOverall": 73.6,
-      "wrRecent": 73.6
-     },
-     "Jack-8": {
-      "games": 879,
-      "wrOverall": 61.8,
-      "wrRecent": 78
-     },
-     "Feng": {
-      "games": 85,
-      "wrOverall": 87.1,
-      "wrRecent": 87.1
-     },
-     "Lee": {
-      "games": 101,
-      "wrOverall": 79.2,
-      "wrRecent": 80
-     },
-     "Bryan": {
-      "games": 132,
-      "wrOverall": 75.8,
-      "wrRecent": 73
-     },
-     "Claudio": {
-      "games": 37,
-      "wrOverall": 73,
-      "wrRecent": 73
-     }
-    },
-    "stopAfter": 25,
-    "dropPp": 7.9,
-    "riseAfter": 10,
-    "risePp": 3.1,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "SOOP_KNEEDROP",
    "id": "2h7rdL8enjiy",
    "registeredAt": 1786245795,
@@ -4470,6 +4394,102 @@
     "dropPp": null,
     "riseAfter": null,
     "risePp": null,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "혹세무민",
+   "id": "3f25Lq5bYTbB",
+   "registeredAt": 1786248229,
+   "stats": {
+    "id": "3f25Lq5bYTbB",
+    "name": "혹세무민",
+    "fetchedAt": 1786248229,
+    "games": 1481,
+    "lastPlayed": 1784373119,
+    "lastVersion": 30101,
+    "wrOverall": 68.1,
+    "wrRecent200": 78,
+    "rating": 2048,
+    "peakRating": 2147,
+    "mainChar": "Jack-8",
+    "mainCharGames": 879,
+    "chars": {
+     "Steve": {
+      "games": 22,
+      "wrOverall": 72.7,
+      "wrRecent": 72.7,
+      "rating": 1707,
+      "peakRating": 1763
+     },
+     "Leroy": {
+      "games": 38,
+      "wrOverall": 81.6,
+      "wrRecent": 81.6,
+      "rating": 1814,
+      "peakRating": 1814
+     },
+     "Devil Jin": {
+      "games": 32,
+      "wrOverall": 75,
+      "wrRecent": 75,
+      "rating": 1772,
+      "peakRating": 1779
+     },
+     "Eddy": {
+      "games": 29,
+      "wrOverall": 82.8,
+      "wrRecent": 82.8,
+      "rating": 1724,
+      "peakRating": 1770
+     },
+     "Law": {
+      "games": 87,
+      "wrOverall": 73.6,
+      "wrRecent": 73.6,
+      "rating": 1949,
+      "peakRating": 1951
+     },
+     "Jack-8": {
+      "games": 879,
+      "wrOverall": 61.8,
+      "wrRecent": 78,
+      "rating": 2048,
+      "peakRating": 2147
+     },
+     "Feng": {
+      "games": 85,
+      "wrOverall": 87.1,
+      "wrRecent": 87.1,
+      "rating": 1912,
+      "peakRating": 2064
+     },
+     "Lee": {
+      "games": 101,
+      "wrOverall": 79.2,
+      "wrRecent": 80,
+      "rating": 1868,
+      "peakRating": 1968
+     },
+     "Bryan": {
+      "games": 132,
+      "wrOverall": 75.8,
+      "wrRecent": 73,
+      "rating": 1769,
+      "peakRating": 1915
+     },
+     "Claudio": {
+      "games": 37,
+      "wrOverall": 73,
+      "wrRecent": 73,
+      "rating": 1805,
+      "peakRating": 1867
+     }
+    },
+    "stopAfter": 25,
+    "dropPp": 7.9,
+    "riseAfter": 10,
+    "risePp": 3.1,
     "adviceReliable": true
    }
   }
