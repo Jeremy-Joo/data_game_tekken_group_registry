@@ -2491,6 +2491,107 @@
     "risePp": 3.4,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "악마쫑이",
+   "id": "52rb7tD8Qfjf",
+   "registeredAt": 1786243682,
+   "stats": {
+    "id": "52rb7tD8Qfjf",
+    "name": "악마쫑이",
+    "fetchedAt": 1786239947,
+    "games": 2052,
+    "lastPlayed": 1783828692,
+    "lastVersion": 30101,
+    "wrOverall": 70.2,
+    "wrRecent200": 79.5,
+    "rating": 1815,
+    "peakRating": 2115,
+    "mainChar": "Asuka",
+    "mainCharGames": 498,
+    "chars": {
+     "Kuma": {
+      "games": 318,
+      "wrOverall": 71.1,
+      "wrRecent": 85
+     },
+     "Eddy": {
+      "games": 109,
+      "wrOverall": 83.5,
+      "wrRecent": 82
+     },
+     "Devil Jin": {
+      "games": 26,
+      "wrOverall": 69.2,
+      "wrRecent": 69.2
+     },
+     "Victor": {
+      "games": 188,
+      "wrOverall": 63.8,
+      "wrRecent": 63
+     },
+     "Asuka": {
+      "games": 498,
+      "wrOverall": 60.4,
+      "wrRecent": 68
+     },
+     "Panda": {
+      "games": 168,
+      "wrOverall": 82.1,
+      "wrRecent": 86
+     },
+     "Alisa": {
+      "games": 144,
+      "wrOverall": 71.5,
+      "wrRecent": 68
+     },
+     "Shaheen": {
+      "games": 119,
+      "wrOverall": 80.7,
+      "wrRecent": 79
+     },
+     "Claudio": {
+      "games": 45,
+      "wrOverall": 73.3,
+      "wrRecent": 73.3
+     },
+     "Zafina": {
+      "games": 108,
+      "wrOverall": 63.9,
+      "wrRecent": 62
+     },
+     "Fahkumram": {
+      "games": 42,
+      "wrOverall": 78.6,
+      "wrRecent": 78.6
+     },
+     "Kazuya": {
+      "games": 58,
+      "wrOverall": 67.2,
+      "wrRecent": 67.2
+     },
+     "Anna": {
+      "games": 91,
+      "wrOverall": 78,
+      "wrRecent": 78
+     },
+     "Bryan": {
+      "games": 28,
+      "wrOverall": 71.4,
+      "wrRecent": 71.4
+     },
+     "Leroy": {
+      "games": 110,
+      "wrOverall": 74.5,
+      "wrRecent": 75
+     }
+    },
+    "stopAfter": 5,
+    "dropPp": 3.5,
+    "riseAfter": 0,
+    "risePp": 7.4,
+    "adviceReliable": true
+   }
   }
  ]
 }
