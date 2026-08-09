@@ -2170,6 +2170,62 @@
     "risePp": 7.7,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "챔스",
+   "id": "4AjN4QyHgBh6",
+   "registeredAt": 1786243670,
+   "stats": {
+    "id": "4AjN4QyHgBh6",
+    "name": "ChamS",
+    "fetchedAt": 1786239920,
+    "games": 8999,
+    "lastPlayed": 1786189652,
+    "lastVersion": 30101,
+    "wrOverall": 47.2,
+    "wrRecent200": 53.5,
+    "rating": 1611,
+    "peakRating": 1863,
+    "mainChar": "Hwoarang",
+    "mainCharGames": 4470,
+    "chars": {
+     "Hwoarang": {
+      "games": 4470,
+      "wrOverall": 49.6,
+      "wrRecent": 59
+     },
+     "Heihachi": {
+      "games": 436,
+      "wrOverall": 41.3,
+      "wrRecent": 47
+     },
+     "Clive": {
+      "games": 1754,
+      "wrOverall": 50.2,
+      "wrRecent": 44
+     },
+     "Claudio": {
+      "games": 251,
+      "wrOverall": 40.2,
+      "wrRecent": 44
+     },
+     "Fahkumram": {
+      "games": 604,
+      "wrOverall": 43.9,
+      "wrRecent": 43
+     },
+     "Law": {
+      "games": 1473,
+      "wrOverall": 40.7,
+      "wrRecent": 53
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 20,
+    "risePp": 3.5,
+    "adviceReliable": true
+   }
   }
  ]
 }
