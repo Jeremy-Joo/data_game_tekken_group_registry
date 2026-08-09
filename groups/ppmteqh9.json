@@ -296,6 +296,72 @@
     "risePp": 3.9,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "메테오",
+   "id": "4LDH2FMFhqQa",
+   "registeredAt": 1786243629,
+   "stats": {
+    "id": "4LDH2FMFhqQa",
+    "name": "9lv Meteor",
+    "fetchedAt": 1786239794,
+    "games": 8252,
+    "lastPlayed": 1784741340,
+    "lastVersion": 30101,
+    "wrOverall": 55.9,
+    "wrRecent200": 57,
+    "rating": 2260,
+    "peakRating": 2410,
+    "mainChar": "Paul",
+    "mainCharGames": 3691,
+    "chars": {
+     "Paul": {
+      "games": 3691,
+      "wrOverall": 55.4,
+      "wrRecent": 55
+     },
+     "Steve": {
+      "games": 64,
+      "wrOverall": 64.1,
+      "wrRecent": 64.1
+     },
+     "Bryan": {
+      "games": 1874,
+      "wrOverall": 56,
+      "wrRecent": 42
+     },
+     "Victor": {
+      "games": 838,
+      "wrOverall": 56.3,
+      "wrRecent": 54
+     },
+     "Heihachi": {
+      "games": 951,
+      "wrOverall": 55.8,
+      "wrRecent": 72
+     },
+     "Dragunov": {
+      "games": 418,
+      "wrOverall": 55,
+      "wrRecent": 50
+     },
+     "Alisa": {
+      "games": 168,
+      "wrOverall": 64.9,
+      "wrRecent": 65
+     },
+     "Asuka": {
+      "games": 235,
+      "wrOverall": 56.6,
+      "wrRecent": 52
+     }
+    },
+    "stopAfter": 25,
+    "dropPp": 4.5,
+    "riseAfter": 10,
+    "risePp": 3.1,
+    "adviceReliable": true
+   }
   }
  ]
 }
