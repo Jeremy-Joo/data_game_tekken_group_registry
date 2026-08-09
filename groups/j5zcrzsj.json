@@ -2226,6 +2226,42 @@
     "risePp": 3.5,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "곰돌이우카",
+   "id": "56gnTmRyLfGf",
+   "registeredAt": 1786245808,
+   "stats": {
+    "id": "56gnTmRyLfGf",
+    "name": "[전철협] 곰돌이우카",
+    "fetchedAt": 1786239929,
+    "games": 25310,
+    "lastPlayed": 1786239687,
+    "lastVersion": 30101,
+    "wrOverall": 47.8,
+    "wrRecent200": 48,
+    "rating": 1709,
+    "peakRating": 1945,
+    "mainChar": "Kuma",
+    "mainCharGames": 21199,
+    "chars": {
+     "Kuma": {
+      "games": 21199,
+      "wrOverall": 47.7,
+      "wrRecent": 44
+     },
+     "Panda": {
+      "games": 4104,
+      "wrOverall": 48.5,
+      "wrRecent": 51
+     }
+    },
+    "stopAfter": 40,
+    "dropPp": 3.6,
+    "riseAfter": 5,
+    "risePp": 4.5,
+    "adviceReliable": true
+   }
   }
  ]
 }
