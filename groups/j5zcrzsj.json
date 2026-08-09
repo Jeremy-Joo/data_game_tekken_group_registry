@@ -4,77 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "Senet",
-   "id": "5TgNddFLM5yf",
-   "registeredAt": 1786245812,
-   "stats": {
-    "id": "5TgNddFLM5yf",
-    "name": "Senet",
-    "fetchedAt": 1786239934,
-    "games": 1940,
-    "lastPlayed": 1780662584,
-    "lastVersion": 30101,
-    "wrOverall": 60.4,
-    "wrRecent200": 70,
-    "rating": 1921,
-    "peakRating": 2075,
-    "mainChar": "Kuma",
-    "mainCharGames": 826,
-    "chars": {
-     "Alisa": {
-      "games": 73,
-      "wrOverall": 83.6,
-      "wrRecent": 83.6
-     },
-     "Kuma": {
-      "games": 826,
-      "wrOverall": 57.4,
-      "wrRecent": 66
-     },
-     "Reina": {
-      "games": 25,
-      "wrOverall": 56,
-      "wrRecent": 56
-     },
-     "Azucena": {
-      "games": 67,
-      "wrOverall": 55.2,
-      "wrRecent": 55.2
-     },
-     "Shaheen": {
-      "games": 26,
-      "wrOverall": 84.6,
-      "wrRecent": 84.6
-     },
-     "Panda": {
-      "games": 671,
-      "wrOverall": 62.7,
-      "wrRecent": 71
-     },
-     "Bryan": {
-      "games": 113,
-      "wrOverall": 48.7,
-      "wrRecent": 45
-     },
-     "Clive": {
-      "games": 55,
-      "wrOverall": 74.5,
-      "wrRecent": 74.5
-     },
-     "Law": {
-      "games": 41,
-      "wrOverall": 68.3,
-      "wrRecent": 68.3
-     }
-    },
-    "stopAfter": 0,
-    "dropPp": 3.6,
-    "riseAfter": 5,
-    "risePp": 7.7,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "호메론",
    "id": "2mHGA2ENbbg8",
    "registeredAt": 1786245813,
@@ -4654,6 +4583,95 @@
     "dropPp": null,
     "riseAfter": 10,
     "risePp": 3.7,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "Senet",
+   "id": "5TgNddFLM5yf",
+   "registeredAt": 1786248303,
+   "stats": {
+    "id": "5TgNddFLM5yf",
+    "name": "Senet",
+    "fetchedAt": 1786248303,
+    "games": 1940,
+    "lastPlayed": 1780662584,
+    "lastVersion": 30101,
+    "wrOverall": 60.4,
+    "wrRecent200": 70,
+    "rating": 1921,
+    "peakRating": 2075,
+    "mainChar": "Kuma",
+    "mainCharGames": 826,
+    "chars": {
+     "Alisa": {
+      "games": 73,
+      "wrOverall": 83.6,
+      "wrRecent": 83.6,
+      "rating": 1816,
+      "peakRating": 1936
+     },
+     "Kuma": {
+      "games": 826,
+      "wrOverall": 57.4,
+      "wrRecent": 66,
+      "rating": 1921,
+      "peakRating": 2075
+     },
+     "Reina": {
+      "games": 25,
+      "wrOverall": 56,
+      "wrRecent": 56,
+      "rating": 1611,
+      "peakRating": 1806
+     },
+     "Azucena": {
+      "games": 67,
+      "wrOverall": 55.2,
+      "wrRecent": 55.2,
+      "rating": 1615,
+      "peakRating": 1943
+     },
+     "Shaheen": {
+      "games": 26,
+      "wrOverall": 84.6,
+      "wrRecent": 84.6,
+      "rating": 1796,
+      "peakRating": 1854
+     },
+     "Panda": {
+      "games": 671,
+      "wrOverall": 62.7,
+      "wrRecent": 71,
+      "rating": 1889,
+      "peakRating": 2057
+     },
+     "Bryan": {
+      "games": 113,
+      "wrOverall": 48.7,
+      "wrRecent": 45,
+      "rating": 1455,
+      "peakRating": 1835
+     },
+     "Clive": {
+      "games": 55,
+      "wrOverall": 74.5,
+      "wrRecent": 74.5,
+      "rating": 1734,
+      "peakRating": 1934
+     },
+     "Law": {
+      "games": 41,
+      "wrOverall": 68.3,
+      "wrRecent": 68.3,
+      "rating": 1693,
+      "peakRating": 1737
+     }
+    },
+    "stopAfter": 0,
+    "dropPp": 3.6,
+    "riseAfter": 5,
+    "risePp": 7.7,
     "adviceReliable": true
    }
   }
