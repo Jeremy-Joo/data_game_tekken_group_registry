@@ -2,5 +2,57 @@
  "slug": "ppmteqh9",
  "name": "단톡방",
  "createdAt": 1786243622,
- "members": []
+ "members": [
+  {
+   "nick": "비행자세",
+   "id": "4FnfeMrn7nGJ",
+   "registeredAt": 1786243624,
+   "stats": {
+    "id": "4FnfeMrn7nGJ",
+    "name": "비행자세",
+    "fetchedAt": 1786239754,
+    "games": 18631,
+    "lastPlayed": 1786196526,
+    "lastVersion": 30101,
+    "wrOverall": 53.4,
+    "wrRecent200": 55.5,
+    "rating": 2142,
+    "peakRating": 2528,
+    "mainChar": "Xiaoyu",
+    "mainCharGames": 9654,
+    "chars": {
+     "Dragunov": {
+      "games": 1519,
+      "wrOverall": 54.3,
+      "wrRecent": 58
+     },
+     "Xiaoyu": {
+      "games": 9654,
+      "wrOverall": 53.5,
+      "wrRecent": 52
+     },
+     "Azucena": {
+      "games": 639,
+      "wrOverall": 54.3,
+      "wrRecent": 47
+     },
+     "Paul": {
+      "games": 1531,
+      "wrOverall": 53,
+      "wrRecent": 53
+     },
+     "Anna": {
+      "games": 5284,
+      "wrOverall": 53,
+      "wrRecent": 54
+     }
+    },
+    "stopAfter": 0,
+    "dropPp": 4.1,
+    "riseAfter": 55,
+    "risePp": 4.2,
+    "adviceReliable": true
+   }
+  }
+ ]
 }
