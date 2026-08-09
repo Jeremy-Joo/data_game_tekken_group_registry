@@ -3,7 +3,8 @@
   {
    "slug": "j5zcrzsj",
    "name": "AZ톡",
-   "createdAt": 1786245759
+   "createdAt": 1786245759,
+   "hasPassword": true
   }
  ]
 }
