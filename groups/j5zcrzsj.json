@@ -3145,6 +3145,92 @@
     "risePp": null,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "야비연구센터장",
+   "id": "4d5YJAT94nd4",
+   "registeredAt": 1786245832,
+   "stats": {
+    "id": "4d5YJAT94nd4",
+    "name": "야비연구센터장(지면한판튀)",
+    "fetchedAt": 1786239980,
+    "games": 3670,
+    "lastPlayed": 1781409495,
+    "lastVersion": 30101,
+    "wrOverall": 57,
+    "wrRecent200": 51.5,
+    "rating": 1628,
+    "peakRating": 1846,
+    "mainChar": "Jack-8",
+    "mainCharGames": 685,
+    "chars": {
+     "Feng": {
+      "games": 413,
+      "wrOverall": 52.3,
+      "wrRecent": 59
+     },
+     "King": {
+      "games": 246,
+      "wrOverall": 57.3,
+      "wrRecent": 53
+     },
+     "Eddy": {
+      "games": 231,
+      "wrOverall": 64.1,
+      "wrRecent": 57
+     },
+     "Zafina": {
+      "games": 603,
+      "wrOverall": 54.9,
+      "wrRecent": 52
+     },
+     "Lidia": {
+      "games": 303,
+      "wrOverall": 55.8,
+      "wrRecent": 56
+     },
+     "Alisa": {
+      "games": 237,
+      "wrOverall": 60.8,
+      "wrRecent": 59
+     },
+     "Raven": {
+      "games": 167,
+      "wrOverall": 67.1,
+      "wrRecent": 67
+     },
+     "Dragunov": {
+      "games": 218,
+      "wrOverall": 56.9,
+      "wrRecent": 47
+     },
+     "Clive": {
+      "games": 195,
+      "wrOverall": 57.4,
+      "wrRecent": 54
+     },
+     "Anna": {
+      "games": 241,
+      "wrOverall": 57.7,
+      "wrRecent": 48
+     },
+     "Jack-8": {
+      "games": 685,
+      "wrOverall": 54.6,
+      "wrRecent": 53
+     },
+     "Miary Zo": {
+      "games": 131,
+      "wrOverall": 61.8,
+      "wrRecent": 63
+     }
+    },
+    "stopAfter": 35,
+    "dropPp": 3.9,
+    "riseAfter": 30,
+    "risePp": 4.2,
+    "adviceReliable": true
+   }
   }
  ]
 }
