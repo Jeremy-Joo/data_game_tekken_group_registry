@@ -53,6 +53,47 @@
     "risePp": 4.2,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "DrKing",
+   "id": "3rHt5fYJq4a2",
+   "registeredAt": 1786243625,
+   "stats": {
+    "id": "3rHt5fYJq4a2",
+    "name": "Ms.King",
+    "fetchedAt": 1786239765,
+    "games": 41081,
+    "lastPlayed": 1786102558,
+    "lastVersion": 30101,
+    "wrOverall": 49.9,
+    "wrRecent200": 50.5,
+    "rating": 2130,
+    "peakRating": 2400,
+    "mainChar": "King",
+    "mainCharGames": 39862,
+    "chars": {
+     "King": {
+      "games": 39862,
+      "wrOverall": 49.9,
+      "wrRecent": 50
+     },
+     "Clive": {
+      "games": 49,
+      "wrOverall": 28.6,
+      "wrRecent": 28.6
+     },
+     "Armor King": {
+      "games": 1170,
+      "wrOverall": 50.8,
+      "wrRecent": 54
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": null,
+    "risePp": null,
+    "adviceReliable": true
+   }
   }
  ]
 }
