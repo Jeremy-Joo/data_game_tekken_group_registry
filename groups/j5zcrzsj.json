@@ -700,6 +700,102 @@
     "risePp": null,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "제임스봉투",
+   "id": "3efyyMn8mgFB",
+   "registeredAt": 1786245772,
+   "stats": {
+    "id": "3efyyMn8mgFB",
+    "name": "제임스봉투",
+    "fetchedAt": 1786239813,
+    "games": 11922,
+    "lastPlayed": 1785861241,
+    "lastVersion": 30101,
+    "wrOverall": 60.1,
+    "wrRecent200": 65.5,
+    "rating": 2047,
+    "peakRating": 2295,
+    "mainChar": "Bryan",
+    "mainCharGames": 2305,
+    "chars": {
+     "Jin": {
+      "games": 1269,
+      "wrOverall": 61.6,
+      "wrRecent": 54
+     },
+     "Leroy": {
+      "games": 1901,
+      "wrOverall": 55.8,
+      "wrRecent": 68
+     },
+     "Kazuya": {
+      "games": 752,
+      "wrOverall": 64.4,
+      "wrRecent": 78
+     },
+     "Bryan": {
+      "games": 2305,
+      "wrOverall": 55.8,
+      "wrRecent": 67
+     },
+     "Hwoarang": {
+      "games": 772,
+      "wrOverall": 60.4,
+      "wrRecent": 70
+     },
+     "Steve": {
+      "games": 639,
+      "wrOverall": 60.4,
+      "wrRecent": 69
+     },
+     "Lidia": {
+      "games": 886,
+      "wrOverall": 62.1,
+      "wrRecent": 79
+     },
+     "Devil Jin": {
+      "games": 980,
+      "wrOverall": 61.9,
+      "wrRecent": 73
+     },
+     "Heihachi": {
+      "games": 828,
+      "wrOverall": 64.1,
+      "wrRecent": 79
+     },
+     "Clive": {
+      "games": 627,
+      "wrOverall": 64.6,
+      "wrRecent": 71
+     },
+     "Lars": {
+      "games": 187,
+      "wrOverall": 64.2,
+      "wrRecent": 64
+     },
+     "Fahkumram": {
+      "games": 473,
+      "wrOverall": 62.6,
+      "wrRecent": 68
+     },
+     "Paul": {
+      "games": 56,
+      "wrOverall": 66.1,
+      "wrRecent": 66.1
+     },
+     "Kunimitsu": {
+      "games": 247,
+      "wrOverall": 60.7,
+      "wrRecent": 58
+     }
+    },
+    "stopAfter": 55,
+    "dropPp": 4,
+    "riseAfter": 50,
+    "risePp": 6.8,
+    "adviceReliable": true
+   }
   }
  ]
 }
