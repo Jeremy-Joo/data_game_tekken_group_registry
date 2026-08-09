@@ -14,6 +14,12 @@
    "slug": "j5zcrzsj",
    "name": "단톡방",
    "createdAt": 1786245759
+  },
+  {
+   "slug": "gamhwjef",
+   "name": "비번테스트",
+   "createdAt": 1786246931,
+   "hasPassword": true
   }
  ]
 }
