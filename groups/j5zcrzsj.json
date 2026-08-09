@@ -4,57 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "비행자세",
-   "id": "4FnfeMrn7nGJ",
-   "registeredAt": 1786245760,
-   "stats": {
-    "id": "4FnfeMrn7nGJ",
-    "name": "비행자세",
-    "fetchedAt": 1786239754,
-    "games": 18631,
-    "lastPlayed": 1786196526,
-    "lastVersion": 30101,
-    "wrOverall": 53.4,
-    "wrRecent200": 55.5,
-    "rating": 2142,
-    "peakRating": 2528,
-    "mainChar": "Xiaoyu",
-    "mainCharGames": 9654,
-    "chars": {
-     "Dragunov": {
-      "games": 1519,
-      "wrOverall": 54.3,
-      "wrRecent": 58
-     },
-     "Xiaoyu": {
-      "games": 9654,
-      "wrOverall": 53.5,
-      "wrRecent": 52
-     },
-     "Azucena": {
-      "games": 639,
-      "wrOverall": 54.3,
-      "wrRecent": 47
-     },
-     "Paul": {
-      "games": 1531,
-      "wrOverall": 53,
-      "wrRecent": 53
-     },
-     "Anna": {
-      "games": 5284,
-      "wrOverall": 53,
-      "wrRecent": 54
-     }
-    },
-    "stopAfter": 0,
-    "dropPp": 4.1,
-    "riseAfter": 55,
-    "risePp": 4.2,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "DrKing",
    "id": "3rHt5fYJq4a2",
    "registeredAt": 1786245762,
@@ -4056,6 +4005,67 @@
     "dropPp": 5.4,
     "riseAfter": 5,
     "risePp": 5,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "비행자세",
+   "id": "4FnfeMrn7nGJ",
+   "registeredAt": 1786248073,
+   "stats": {
+    "id": "4FnfeMrn7nGJ",
+    "name": "비행자세",
+    "fetchedAt": 1786248073,
+    "games": 18631,
+    "lastPlayed": 1786196526,
+    "lastVersion": 30101,
+    "wrOverall": 53.4,
+    "wrRecent200": 55.5,
+    "rating": 2142,
+    "peakRating": 2523,
+    "mainChar": "Xiaoyu",
+    "mainCharGames": 9654,
+    "chars": {
+     "Dragunov": {
+      "games": 1519,
+      "wrOverall": 54.3,
+      "wrRecent": 58,
+      "rating": 1998,
+      "peakRating": 2041
+     },
+     "Xiaoyu": {
+      "games": 9654,
+      "wrOverall": 53.5,
+      "wrRecent": 52,
+      "rating": 2142,
+      "peakRating": 2523
+     },
+     "Azucena": {
+      "games": 639,
+      "wrOverall": 54.3,
+      "wrRecent": 47,
+      "rating": 1952,
+      "peakRating": 2197
+     },
+     "Paul": {
+      "games": 1531,
+      "wrOverall": 53,
+      "wrRecent": 53,
+      "rating": 2150,
+      "peakRating": 2206
+     },
+     "Anna": {
+      "games": 5284,
+      "wrOverall": 53,
+      "wrRecent": 54,
+      "rating": 2264,
+      "peakRating": 2528
+     }
+    },
+    "stopAfter": 0,
+    "dropPp": 4.1,
+    "riseAfter": 55,
+    "risePp": 4.2,
     "adviceReliable": true
    }
   }
