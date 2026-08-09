@@ -3931,6 +3931,92 @@
     "risePp": 7,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "응나락이야",
+   "id": "2rtdmgTG9Amy",
+   "registeredAt": 1786245862,
+   "stats": {
+    "id": "2rtdmgTG9Amy",
+    "name": "응 나락이야",
+    "fetchedAt": 1786240026,
+    "games": 5752,
+    "lastPlayed": 1765403907,
+    "lastVersion": 20800,
+    "wrOverall": 53,
+    "wrRecent200": 59,
+    "rating": 1822,
+    "peakRating": 2003,
+    "mainChar": "Kazuya",
+    "mainCharGames": 2838,
+    "chars": {
+     "Kazuya": {
+      "games": 2838,
+      "wrOverall": 50.6,
+      "wrRecent": 57
+     },
+     "Nina": {
+      "games": 322,
+      "wrOverall": 55,
+      "wrRecent": 55
+     },
+     "King": {
+      "games": 21,
+      "wrOverall": 52.4,
+      "wrRecent": 52.4
+     },
+     "Jack-8": {
+      "games": 193,
+      "wrOverall": 63.2,
+      "wrRecent": 66
+     },
+     "Devil Jin": {
+      "games": 615,
+      "wrOverall": 52.8,
+      "wrRecent": 49
+     },
+     "Reina": {
+      "games": 82,
+      "wrOverall": 62.2,
+      "wrRecent": 62.2
+     },
+     "Dragunov": {
+      "games": 469,
+      "wrOverall": 51,
+      "wrRecent": 57
+     },
+     "Steve": {
+      "games": 126,
+      "wrOverall": 56.3,
+      "wrRecent": 53
+     },
+     "Heihachi": {
+      "games": 301,
+      "wrOverall": 58.8,
+      "wrRecent": 65
+     },
+     "Xiaoyu": {
+      "games": 404,
+      "wrOverall": 53.5,
+      "wrRecent": 53
+     },
+     "Anna": {
+      "games": 175,
+      "wrOverall": 58.3,
+      "wrRecent": 62
+     },
+     "Fahkumram": {
+      "games": 201,
+      "wrOverall": 59.7,
+      "wrRecent": 61
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 45,
+    "risePp": 7.8,
+    "adviceReliable": true
+   }
   }
  ]
 }
