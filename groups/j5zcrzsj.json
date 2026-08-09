@@ -4,127 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "parkwolf",
-   "id": "5nNy6eNfdf22",
-   "registeredAt": 1786245767,
-   "stats": {
-    "id": "5nNy6eNfdf22",
-    "name": "parkwolf",
-    "fetchedAt": 1786239799,
-    "games": 10409,
-    "lastPlayed": 1785773466,
-    "lastVersion": 30101,
-    "wrOverall": 52.7,
-    "wrRecent200": 58.5,
-    "rating": 1780,
-    "peakRating": 2350,
-    "mainChar": "Zafina",
-    "mainCharGames": 3171,
-    "chars": {
-     "Devil Jin": {
-      "games": 338,
-      "wrOverall": 48.2,
-      "wrRecent": 45
-     },
-     "Zafina": {
-      "games": 3171,
-      "wrOverall": 55.2,
-      "wrRecent": 53
-     },
-     "Jack-8": {
-      "games": 785,
-      "wrOverall": 53.6,
-      "wrRecent": 50
-     },
-     "Law": {
-      "games": 960,
-      "wrOverall": 53.8,
-      "wrRecent": 59
-     },
-     "Alisa": {
-      "games": 88,
-      "wrOverall": 61.4,
-      "wrRecent": 61.4
-     },
-     "Heihachi": {
-      "games": 22,
-      "wrOverall": 50,
-      "wrRecent": 50
-     },
-     "Lili": {
-      "games": 319,
-      "wrOverall": 52,
-      "wrRecent": 43
-     },
-     "Fahkumram": {
-      "games": 44,
-      "wrOverall": 29.5,
-      "wrRecent": 29.5
-     },
-     "Anna": {
-      "games": 123,
-      "wrOverall": 56.1,
-      "wrRecent": 52
-     },
-     "Leo": {
-      "games": 654,
-      "wrOverall": 50.5,
-      "wrRecent": 58
-     },
-     "Claudio": {
-      "games": 573,
-      "wrOverall": 50.3,
-      "wrRecent": 58
-     },
-     "Armor King": {
-      "games": 291,
-      "wrOverall": 52.9,
-      "wrRecent": 61
-     },
-     "Miary Zo": {
-      "games": 409,
-      "wrOverall": 55.5,
-      "wrRecent": 57
-     },
-     "Reina": {
-      "games": 497,
-      "wrOverall": 50.3,
-      "wrRecent": 58
-     },
-     "Kazuya": {
-      "games": 455,
-      "wrOverall": 51,
-      "wrRecent": 52
-     },
-     "Eddy": {
-      "games": 192,
-      "wrOverall": 45.3,
-      "wrRecent": 55
-     },
-     "Xiaoyu": {
-      "games": 340,
-      "wrOverall": 45.3,
-      "wrRecent": 52
-     },
-     "Kunimitsu": {
-      "games": 1075,
-      "wrOverall": 51.3,
-      "wrRecent": 60
-     },
-     "Lee": {
-      "games": 73,
-      "wrOverall": 65.8,
-      "wrRecent": 65.8
-     }
-    },
-    "stopAfter": null,
-    "dropPp": null,
-    "riseAfter": 40,
-    "risePp": 7,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "배찌",
    "id": "5t5TfN3Yfb48",
    "registeredAt": 1786245769,
@@ -4148,6 +4027,165 @@
     "dropPp": 4.5,
     "riseAfter": 10,
     "risePp": 3.1,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "parkwolf",
+   "id": "5nNy6eNfdf22",
+   "registeredAt": 1786248119,
+   "stats": {
+    "id": "5nNy6eNfdf22",
+    "name": "parkwolf",
+    "fetchedAt": 1786248119,
+    "games": 10409,
+    "lastPlayed": 1785773466,
+    "lastVersion": 30101,
+    "wrOverall": 52.7,
+    "wrRecent200": 58.5,
+    "rating": 2263,
+    "peakRating": 2350,
+    "mainChar": "Zafina",
+    "mainCharGames": 3171,
+    "chars": {
+     "Devil Jin": {
+      "games": 338,
+      "wrOverall": 48.2,
+      "wrRecent": 45,
+      "rating": 1579,
+      "peakRating": 1654
+     },
+     "Zafina": {
+      "games": 3171,
+      "wrOverall": 55.2,
+      "wrRecent": 53,
+      "rating": 2263,
+      "peakRating": 2350
+     },
+     "Jack-8": {
+      "games": 785,
+      "wrOverall": 53.6,
+      "wrRecent": 50,
+      "rating": 1728,
+      "peakRating": 1826
+     },
+     "Law": {
+      "games": 960,
+      "wrOverall": 53.8,
+      "wrRecent": 59,
+      "rating": 1895,
+      "peakRating": 1905
+     },
+     "Alisa": {
+      "games": 88,
+      "wrOverall": 61.4,
+      "wrRecent": 61.4,
+      "rating": 1616,
+      "peakRating": 1721
+     },
+     "Heihachi": {
+      "games": 22,
+      "wrOverall": 50,
+      "wrRecent": 50,
+      "rating": 1433,
+      "peakRating": 1479
+     },
+     "Lili": {
+      "games": 319,
+      "wrOverall": 52,
+      "wrRecent": 43,
+      "rating": 1561,
+      "peakRating": 1768
+     },
+     "Fahkumram": {
+      "games": 44,
+      "wrOverall": 29.5,
+      "wrRecent": 29.5,
+      "rating": 1422,
+      "peakRating": 1867
+     },
+     "Anna": {
+      "games": 123,
+      "wrOverall": 56.1,
+      "wrRecent": 52,
+      "rating": 1772,
+      "peakRating": 1920
+     },
+     "Leo": {
+      "games": 654,
+      "wrOverall": 50.5,
+      "wrRecent": 58,
+      "rating": 1936,
+      "peakRating": 1957
+     },
+     "Claudio": {
+      "games": 573,
+      "wrOverall": 50.3,
+      "wrRecent": 58,
+      "rating": 1857,
+      "peakRating": 1867
+     },
+     "Armor King": {
+      "games": 291,
+      "wrOverall": 52.9,
+      "wrRecent": 61,
+      "rating": 1897,
+      "peakRating": 1909
+     },
+     "Miary Zo": {
+      "games": 409,
+      "wrOverall": 55.5,
+      "wrRecent": 57,
+      "rating": 2054,
+      "peakRating": 2060
+     },
+     "Reina": {
+      "games": 497,
+      "wrOverall": 50.3,
+      "wrRecent": 58,
+      "rating": 1869,
+      "peakRating": 1869
+     },
+     "Kazuya": {
+      "games": 455,
+      "wrOverall": 51,
+      "wrRecent": 52,
+      "rating": 1816,
+      "peakRating": 1877
+     },
+     "Eddy": {
+      "games": 192,
+      "wrOverall": 45.3,
+      "wrRecent": 55,
+      "rating": 1976,
+      "peakRating": 1976
+     },
+     "Xiaoyu": {
+      "games": 340,
+      "wrOverall": 45.3,
+      "wrRecent": 52,
+      "rating": 1874,
+      "peakRating": 1887
+     },
+     "Kunimitsu": {
+      "games": 1075,
+      "wrOverall": 51.3,
+      "wrRecent": 60,
+      "rating": 2012,
+      "peakRating": 2076
+     },
+     "Lee": {
+      "games": 73,
+      "wrOverall": 65.8,
+      "wrRecent": 65.8,
+      "rating": 1780,
+      "peakRating": 1881
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 40,
+    "risePp": 7,
     "adviceReliable": true
    }
   }
