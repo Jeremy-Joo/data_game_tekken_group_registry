@@ -3064,6 +3064,87 @@
     "risePp": 3.5,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "앞하요제발",
+   "id": "3i8eNYQBLyQE",
+   "registeredAt": 1786245831,
+   "stats": {
+    "id": "3i8eNYQBLyQE",
+    "name": "앞하요젭알",
+    "fetchedAt": 1786239976,
+    "games": 4490,
+    "lastPlayed": 1784241549,
+    "lastVersion": 30101,
+    "wrOverall": 56.7,
+    "wrRecent200": 75,
+    "rating": 1686,
+    "peakRating": 1922,
+    "mainChar": "Feng",
+    "mainCharGames": 1300,
+    "chars": {
+     "Azucena": {
+      "games": 366,
+      "wrOverall": 57.9,
+      "wrRecent": 57
+     },
+     "Asuka": {
+      "games": 517,
+      "wrOverall": 57.1,
+      "wrRecent": 70
+     },
+     "Jun": {
+      "games": 467,
+      "wrOverall": 55.7,
+      "wrRecent": 50
+     },
+     "Kuma": {
+      "games": 838,
+      "wrOverall": 60.7,
+      "wrRecent": 74
+     },
+     "Panda": {
+      "games": 460,
+      "wrOverall": 60.7,
+      "wrRecent": 69
+     },
+     "Xiaoyu": {
+      "games": 160,
+      "wrOverall": 53.8,
+      "wrRecent": 58
+     },
+     "Alisa": {
+      "games": 81,
+      "wrOverall": 54.3,
+      "wrRecent": 54.3
+     },
+     "Feng": {
+      "games": 1300,
+      "wrOverall": 52.1,
+      "wrRecent": 49
+     },
+     "Yoshimitsu": {
+      "games": 35,
+      "wrOverall": 54.3,
+      "wrRecent": 54.3
+     },
+     "Clive": {
+      "games": 23,
+      "wrOverall": 43.5,
+      "wrRecent": 43.5
+     },
+     "Lidia": {
+      "games": 237,
+      "wrOverall": 65,
+      "wrRecent": 67
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": null,
+    "risePp": null,
+    "adviceReliable": true
+   }
   }
  ]
 }
