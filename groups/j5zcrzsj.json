@@ -4,67 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "빡훈TV",
-   "id": "5nJNGYfdefBB",
-   "registeredAt": 1786245782,
-   "stats": {
-    "id": "5nJNGYfdefBB",
-    "name": "도란도란|빡훈tv",
-    "fetchedAt": 1786239841,
-    "games": 10941,
-    "lastPlayed": 1786023083,
-    "lastVersion": 30101,
-    "wrOverall": 51.8,
-    "wrRecent200": 54.5,
-    "rating": 1936,
-    "peakRating": 2194,
-    "mainChar": "Kazuya",
-    "mainCharGames": 7605,
-    "chars": {
-     "Kazuya": {
-      "games": 7605,
-      "wrOverall": 51.1,
-      "wrRecent": 50
-     },
-     "Devil Jin": {
-      "games": 2066,
-      "wrOverall": 52,
-      "wrRecent": 64
-     },
-     "Jin": {
-      "games": 521,
-      "wrOverall": 56,
-      "wrRecent": 56
-     },
-     "Paul": {
-      "games": 81,
-      "wrOverall": 58,
-      "wrRecent": 58
-     },
-     "Dragunov": {
-      "games": 21,
-      "wrOverall": 52.4,
-      "wrRecent": 52.4
-     },
-     "Heihachi": {
-      "games": 604,
-      "wrOverall": 57.3,
-      "wrRecent": 47
-     },
-     "Shaheen": {
-      "games": 41,
-      "wrOverall": 34.1,
-      "wrRecent": 34.1
-     }
-    },
-    "stopAfter": null,
-    "dropPp": null,
-    "riseAfter": 55,
-    "risePp": 4.4,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "끵끵소",
    "id": "4gd8T8dNT2Gh",
    "registeredAt": 1786245783,
@@ -4344,6 +4283,81 @@
     "dropPp": 5.7,
     "riseAfter": 0,
     "risePp": 3.1,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "빡훈TV",
+   "id": "5nJNGYfdefBB",
+   "registeredAt": 1786248182,
+   "stats": {
+    "id": "5nJNGYfdefBB",
+    "name": "도란도란|빡훈tv",
+    "fetchedAt": 1786248182,
+    "games": 10941,
+    "lastPlayed": 1786023083,
+    "lastVersion": 30101,
+    "wrOverall": 51.8,
+    "wrRecent200": 54.5,
+    "rating": 1936,
+    "peakRating": 2194,
+    "mainChar": "Kazuya",
+    "mainCharGames": 7605,
+    "chars": {
+     "Kazuya": {
+      "games": 7605,
+      "wrOverall": 51.1,
+      "wrRecent": 50,
+      "rating": 1936,
+      "peakRating": 2194
+     },
+     "Devil Jin": {
+      "games": 2066,
+      "wrOverall": 52,
+      "wrRecent": 64,
+      "rating": 1820,
+      "peakRating": 2051
+     },
+     "Jin": {
+      "games": 521,
+      "wrOverall": 56,
+      "wrRecent": 56,
+      "rating": 1739,
+      "peakRating": 1967
+     },
+     "Paul": {
+      "games": 81,
+      "wrOverall": 58,
+      "wrRecent": 58,
+      "rating": 1623,
+      "peakRating": 1782
+     },
+     "Dragunov": {
+      "games": 21,
+      "wrOverall": 52.4,
+      "wrRecent": 52.4,
+      "rating": 1559,
+      "peakRating": 1752
+     },
+     "Heihachi": {
+      "games": 604,
+      "wrOverall": 57.3,
+      "wrRecent": 47,
+      "rating": 1782,
+      "peakRating": 1986
+     },
+     "Shaheen": {
+      "games": 41,
+      "wrOverall": 34.1,
+      "wrRecent": 34.1,
+      "rating": 1385,
+      "peakRating": 1469
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 55,
+    "risePp": 4.4,
     "adviceReliable": true
    }
   }
