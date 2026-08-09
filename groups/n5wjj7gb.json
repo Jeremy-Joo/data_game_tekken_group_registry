@@ -3,6 +3,6 @@
  "name": "__admintest",
  "createdAt": 1786259769,
  "viewPasswordHash": null,
- "adminPasswordHash": null,
+ "adminPasswordHash": "0d1649d3ede8fc600ce7a4527a4c64a39db51dd038e7b8907402aba47ab386f9",
  "members": []
 }
