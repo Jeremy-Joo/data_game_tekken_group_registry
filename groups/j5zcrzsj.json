@@ -4,72 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "고양시피그몬스터",
-   "id": "3na2LY4Ftyra",
-   "registeredAt": 1786245857,
-   "stats": {
-    "id": "3na2LY4Ftyra",
-    "name": "[전철협]고양시피그몬스터",
-    "fetchedAt": 1786240019,
-    "games": 2829,
-    "lastPlayed": 1785978950,
-    "lastVersion": 30101,
-    "wrOverall": 18.2,
-    "wrRecent200": 12.5,
-    "rating": 906,
-    "peakRating": 1557,
-    "mainChar": "Miary Zo",
-    "mainCharGames": 1499,
-    "chars": {
-     "Panda": {
-      "games": 366,
-      "wrOverall": 19.4,
-      "wrRecent": 15
-     },
-     "King": {
-      "games": 120,
-      "wrOverall": 21.7,
-      "wrRecent": 20
-     },
-     "Paul": {
-      "games": 286,
-      "wrOverall": 16.4,
-      "wrRecent": 11
-     },
-     "Jack-8": {
-      "games": 25,
-      "wrOverall": 12,
-      "wrRecent": 12
-     },
-     "Armor King": {
-      "games": 366,
-      "wrOverall": 15.6,
-      "wrRecent": 20
-     },
-     "Fahkumram": {
-      "games": 122,
-      "wrOverall": 26.2,
-      "wrRecent": 28
-     },
-     "Miary Zo": {
-      "games": 1499,
-      "wrOverall": 18.6,
-      "wrRecent": 7
-     },
-     "Kunimitsu": {
-      "games": 26,
-      "wrOverall": 3.8,
-      "wrRecent": 3.8
-     }
-    },
-    "stopAfter": null,
-    "dropPp": null,
-    "riseAfter": 15,
-    "risePp": 3.4,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "샤넬체리",
    "id": "3hjLE5fNJQGy",
    "registeredAt": 1786245860,
@@ -4980,6 +4914,88 @@
     "dropPp": null,
     "riseAfter": 0,
     "risePp": 6.3,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "고양시피그몬스터",
+   "id": "3na2LY4Ftyra",
+   "registeredAt": 1786248440,
+   "stats": {
+    "id": "3na2LY4Ftyra",
+    "name": "[전철협]고양시피그몬스터",
+    "fetchedAt": 1786248440,
+    "games": 2829,
+    "lastPlayed": 1785978950,
+    "lastVersion": 30101,
+    "wrOverall": 18.2,
+    "wrRecent200": 12.5,
+    "rating": 883,
+    "peakRating": 1448,
+    "mainChar": "Miary Zo",
+    "mainCharGames": 1499,
+    "chars": {
+     "Panda": {
+      "games": 366,
+      "wrOverall": 19.4,
+      "wrRecent": 15,
+      "rating": 878,
+      "peakRating": 1337
+     },
+     "King": {
+      "games": 120,
+      "wrOverall": 21.7,
+      "wrRecent": 20,
+      "rating": 902,
+      "peakRating": 1337
+     },
+     "Paul": {
+      "games": 286,
+      "wrOverall": 16.4,
+      "wrRecent": 11,
+      "rating": 906,
+      "peakRating": 1413
+     },
+     "Jack-8": {
+      "games": 25,
+      "wrOverall": 12,
+      "wrRecent": 12,
+      "rating": 936,
+      "peakRating": 1557
+     },
+     "Armor King": {
+      "games": 366,
+      "wrOverall": 15.6,
+      "wrRecent": 20,
+      "rating": 964,
+      "peakRating": 1464
+     },
+     "Fahkumram": {
+      "games": 122,
+      "wrOverall": 26.2,
+      "wrRecent": 28,
+      "rating": 1022,
+      "peakRating": 1348
+     },
+     "Miary Zo": {
+      "games": 1499,
+      "wrOverall": 18.6,
+      "wrRecent": 7,
+      "rating": 883,
+      "peakRating": 1448
+     },
+     "Kunimitsu": {
+      "games": 26,
+      "wrOverall": 3.8,
+      "wrRecent": 3.8,
+      "rating": 1010,
+      "peakRating": 1346
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 15,
+    "risePp": 3.4,
     "adviceReliable": true
    }
   }
