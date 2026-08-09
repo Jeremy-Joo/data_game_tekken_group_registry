@@ -994,6 +994,52 @@
     "risePp": 4.6,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "도발제트어퍼",
+   "id": "4nHBAETAq9Q2",
+   "registeredAt": 1786245779,
+   "stats": {
+    "id": "4nHBAETAq9Q2",
+    "name": "도발제트어퍼",
+    "fetchedAt": 1786239832,
+    "games": 4558,
+    "lastPlayed": 1786036048,
+    "lastVersion": 30101,
+    "wrOverall": 56.1,
+    "wrRecent200": 52.5,
+    "rating": 1964,
+    "peakRating": 2368,
+    "mainChar": "Bryan",
+    "mainCharGames": 3363,
+    "chars": {
+     "Bryan": {
+      "games": 3363,
+      "wrOverall": 56,
+      "wrRecent": 53
+     },
+     "King": {
+      "games": 628,
+      "wrOverall": 55.4,
+      "wrRecent": 53
+     },
+     "Paul": {
+      "games": 331,
+      "wrOverall": 57.4,
+      "wrRecent": 61
+     },
+     "Devil Jin": {
+      "games": 236,
+      "wrOverall": 57.2,
+      "wrRecent": 53
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 10,
+    "risePp": 5.1,
+    "adviceReliable": true
+   }
   }
  ]
 }
