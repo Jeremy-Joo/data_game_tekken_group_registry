@@ -4,47 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "호메론",
-   "id": "2mHGA2ENbbg8",
-   "registeredAt": 1786245813,
-   "stats": {
-    "id": "2mHGA2ENbbg8",
-    "name": "호메론챔프",
-    "fetchedAt": 1786239941,
-    "games": 16616,
-    "lastPlayed": 1786206963,
-    "lastVersion": 30101,
-    "wrOverall": 48,
-    "wrRecent200": 52,
-    "rating": 1697,
-    "peakRating": 1919,
-    "mainChar": "Kazuya",
-    "mainCharGames": 8300,
-    "chars": {
-     "Kazuya": {
-      "games": 8300,
-      "wrOverall": 48.2,
-      "wrRecent": 55
-     },
-     "Jin": {
-      "games": 7310,
-      "wrOverall": 48.4,
-      "wrRecent": 52
-     },
-     "Heihachi": {
-      "games": 1006,
-      "wrOverall": 43.4,
-      "wrRecent": 37
-     }
-    },
-    "stopAfter": null,
-    "dropPp": null,
-    "riseAfter": 35,
-    "risePp": 3.5,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "누구인가?",
    "id": "5RBJRjAnrgQ2",
    "registeredAt": 1786245815,
@@ -4672,6 +4631,53 @@
     "dropPp": 3.6,
     "riseAfter": 5,
     "risePp": 7.7,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "호메론",
+   "id": "2mHGA2ENbbg8",
+   "registeredAt": 1786248311,
+   "stats": {
+    "id": "2mHGA2ENbbg8",
+    "name": "호메론챔프",
+    "fetchedAt": 1786248311,
+    "games": 16616,
+    "lastPlayed": 1786206963,
+    "lastVersion": 30101,
+    "wrOverall": 48,
+    "wrRecent200": 52,
+    "rating": 1647,
+    "peakRating": 1876,
+    "mainChar": "Kazuya",
+    "mainCharGames": 8300,
+    "chars": {
+     "Kazuya": {
+      "games": 8300,
+      "wrOverall": 48.2,
+      "wrRecent": 55,
+      "rating": 1647,
+      "peakRating": 1876
+     },
+     "Jin": {
+      "games": 7310,
+      "wrOverall": 48.4,
+      "wrRecent": 52,
+      "rating": 1697,
+      "peakRating": 1919
+     },
+     "Heihachi": {
+      "games": 1006,
+      "wrOverall": 43.4,
+      "wrRecent": 37,
+      "rating": 1289,
+      "peakRating": 1575
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 35,
+    "risePp": 3.5,
     "adviceReliable": true
    }
   }
