@@ -4,107 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "악마쫑이",
-   "id": "52rb7tD8Qfjf",
-   "registeredAt": 1786245816,
-   "stats": {
-    "id": "52rb7tD8Qfjf",
-    "name": "악마쫑이",
-    "fetchedAt": 1786239947,
-    "games": 2052,
-    "lastPlayed": 1783828692,
-    "lastVersion": 30101,
-    "wrOverall": 70.2,
-    "wrRecent200": 79.5,
-    "rating": 1815,
-    "peakRating": 2115,
-    "mainChar": "Asuka",
-    "mainCharGames": 498,
-    "chars": {
-     "Kuma": {
-      "games": 318,
-      "wrOverall": 71.1,
-      "wrRecent": 85
-     },
-     "Eddy": {
-      "games": 109,
-      "wrOverall": 83.5,
-      "wrRecent": 82
-     },
-     "Devil Jin": {
-      "games": 26,
-      "wrOverall": 69.2,
-      "wrRecent": 69.2
-     },
-     "Victor": {
-      "games": 188,
-      "wrOverall": 63.8,
-      "wrRecent": 63
-     },
-     "Asuka": {
-      "games": 498,
-      "wrOverall": 60.4,
-      "wrRecent": 68
-     },
-     "Panda": {
-      "games": 168,
-      "wrOverall": 82.1,
-      "wrRecent": 86
-     },
-     "Alisa": {
-      "games": 144,
-      "wrOverall": 71.5,
-      "wrRecent": 68
-     },
-     "Shaheen": {
-      "games": 119,
-      "wrOverall": 80.7,
-      "wrRecent": 79
-     },
-     "Claudio": {
-      "games": 45,
-      "wrOverall": 73.3,
-      "wrRecent": 73.3
-     },
-     "Zafina": {
-      "games": 108,
-      "wrOverall": 63.9,
-      "wrRecent": 62
-     },
-     "Fahkumram": {
-      "games": 42,
-      "wrOverall": 78.6,
-      "wrRecent": 78.6
-     },
-     "Kazuya": {
-      "games": 58,
-      "wrOverall": 67.2,
-      "wrRecent": 67.2
-     },
-     "Anna": {
-      "games": 91,
-      "wrOverall": 78,
-      "wrRecent": 78
-     },
-     "Bryan": {
-      "games": 28,
-      "wrOverall": 71.4,
-      "wrRecent": 71.4
-     },
-     "Leroy": {
-      "games": 110,
-      "wrOverall": 74.5,
-      "wrRecent": 75
-     }
-    },
-    "stopAfter": 5,
-    "dropPp": 3.5,
-    "riseAfter": 0,
-    "risePp": 7.4,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "초쿤에이스",
    "id": "23EdQgJRRhjM",
    "registeredAt": 1786245818,
@@ -4698,6 +4597,137 @@
     "dropPp": 3.2,
     "riseAfter": 15,
     "risePp": 3.4,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "악마쫑이",
+   "id": "52rb7tD8Qfjf",
+   "registeredAt": 1786248321,
+   "stats": {
+    "id": "52rb7tD8Qfjf",
+    "name": "악마쫑이",
+    "fetchedAt": 1786248321,
+    "games": 2052,
+    "lastPlayed": 1783828692,
+    "lastVersion": 30101,
+    "wrOverall": 70.2,
+    "wrRecent200": 79.5,
+    "rating": 2047,
+    "peakRating": 2047,
+    "mainChar": "Asuka",
+    "mainCharGames": 498,
+    "chars": {
+     "Kuma": {
+      "games": 318,
+      "wrOverall": 71.1,
+      "wrRecent": 85,
+      "rating": 2064,
+      "peakRating": 2115
+     },
+     "Eddy": {
+      "games": 109,
+      "wrOverall": 83.5,
+      "wrRecent": 82,
+      "rating": 1855,
+      "peakRating": 2043
+     },
+     "Devil Jin": {
+      "games": 26,
+      "wrOverall": 69.2,
+      "wrRecent": 69.2,
+      "rating": 1607,
+      "peakRating": 1721
+     },
+     "Victor": {
+      "games": 188,
+      "wrOverall": 63.8,
+      "wrRecent": 63,
+      "rating": 1847,
+      "peakRating": 1847
+     },
+     "Asuka": {
+      "games": 498,
+      "wrOverall": 60.4,
+      "wrRecent": 68,
+      "rating": 2047,
+      "peakRating": 2047
+     },
+     "Panda": {
+      "games": 168,
+      "wrOverall": 82.1,
+      "wrRecent": 86,
+      "rating": 2030,
+      "peakRating": 2079
+     },
+     "Alisa": {
+      "games": 144,
+      "wrOverall": 71.5,
+      "wrRecent": 68,
+      "rating": 1924,
+      "peakRating": 1928
+     },
+     "Shaheen": {
+      "games": 119,
+      "wrOverall": 80.7,
+      "wrRecent": 79,
+      "rating": 1815,
+      "peakRating": 1980
+     },
+     "Claudio": {
+      "games": 45,
+      "wrOverall": 73.3,
+      "wrRecent": 73.3,
+      "rating": 1633,
+      "peakRating": 1811
+     },
+     "Zafina": {
+      "games": 108,
+      "wrOverall": 63.9,
+      "wrRecent": 62,
+      "rating": 1834,
+      "peakRating": 1856
+     },
+     "Fahkumram": {
+      "games": 42,
+      "wrOverall": 78.6,
+      "wrRecent": 78.6,
+      "rating": 1962,
+      "peakRating": 1962
+     },
+     "Kazuya": {
+      "games": 58,
+      "wrOverall": 67.2,
+      "wrRecent": 67.2,
+      "rating": 1808,
+      "peakRating": 2015
+     },
+     "Anna": {
+      "games": 91,
+      "wrOverall": 78,
+      "wrRecent": 78,
+      "rating": 2032,
+      "peakRating": 2040
+     },
+     "Bryan": {
+      "games": 28,
+      "wrOverall": 71.4,
+      "wrRecent": 71.4,
+      "rating": 1805,
+      "peakRating": 1805
+     },
+     "Leroy": {
+      "games": 110,
+      "wrOverall": 74.5,
+      "wrRecent": 75,
+      "rating": 1736,
+      "peakRating": 1770
+     }
+    },
+    "stopAfter": 5,
+    "dropPp": 3.5,
+    "riseAfter": 0,
+    "risePp": 7.4,
     "adviceReliable": true
    }
   }
