@@ -4,52 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "Jackfather",
-   "id": "53deQ2dmLday",
-   "registeredAt": 1786245825,
-   "stats": {
-    "id": "53deQ2dmLday",
-    "name": "JackFather",
-    "fetchedAt": 1786239966,
-    "games": 909,
-    "lastPlayed": 1785690145,
-    "lastVersion": 30101,
-    "wrOverall": 58.3,
-    "wrRecent200": 60.5,
-    "rating": 1585,
-    "peakRating": 1790,
-    "mainChar": "Jack-8",
-    "mainCharGames": 675,
-    "chars": {
-     "Jack-8": {
-      "games": 675,
-      "wrOverall": 58.2,
-      "wrRecent": 58
-     },
-     "Paul": {
-      "games": 52,
-      "wrOverall": 59.6,
-      "wrRecent": 59.6
-     },
-     "Jun": {
-      "games": 38,
-      "wrOverall": 65.8,
-      "wrRecent": 65.8
-     },
-     "Zafina": {
-      "games": 144,
-      "wrOverall": 56.3,
-      "wrRecent": 60
-     }
-    },
-    "stopAfter": 20,
-    "dropPp": 7.6,
-    "riseAfter": 0,
-    "risePp": 4,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "플레이어네임을…",
    "id": "2qhMn2bDHma6",
    "registeredAt": 1786245827,
@@ -4830,6 +4784,60 @@
     "dropPp": 4.4,
     "riseAfter": 15,
     "risePp": 6.2,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "Jackfather",
+   "id": "53deQ2dmLday",
+   "registeredAt": 1786248351,
+   "stats": {
+    "id": "53deQ2dmLday",
+    "name": "JackFather",
+    "fetchedAt": 1786248351,
+    "games": 909,
+    "lastPlayed": 1785690145,
+    "lastVersion": 30101,
+    "wrOverall": 58.3,
+    "wrRecent200": 60.5,
+    "rating": 1668,
+    "peakRating": 1764,
+    "mainChar": "Jack-8",
+    "mainCharGames": 675,
+    "chars": {
+     "Jack-8": {
+      "games": 675,
+      "wrOverall": 58.2,
+      "wrRecent": 58,
+      "rating": 1668,
+      "peakRating": 1764
+     },
+     "Paul": {
+      "games": 52,
+      "wrOverall": 59.6,
+      "wrRecent": 59.6,
+      "rating": 1353,
+      "peakRating": 1701
+     },
+     "Jun": {
+      "games": 38,
+      "wrOverall": 65.8,
+      "wrRecent": 65.8,
+      "rating": 1389,
+      "peakRating": 1493
+     },
+     "Zafina": {
+      "games": 144,
+      "wrOverall": 56.3,
+      "wrRecent": 60,
+      "rating": 1585,
+      "peakRating": 1790
+     }
+    },
+    "stopAfter": 20,
+    "dropPp": 7.6,
+    "riseAfter": 0,
+    "risePp": 4,
     "adviceReliable": true
    }
   }
