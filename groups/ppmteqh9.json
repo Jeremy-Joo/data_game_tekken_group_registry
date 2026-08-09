@@ -796,6 +796,82 @@
     "risePp": 6.8,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "물방개하영훈",
+   "id": "5bQ6J5QaTTTn",
+   "registeredAt": 1786243637,
+   "stats": {
+    "id": "5bQ6J5QaTTTn",
+    "name": "물방개하영훈",
+    "fetchedAt": 1786239820,
+    "games": 16921,
+    "lastPlayed": 1784352035,
+    "lastVersion": 30101,
+    "wrOverall": 50.3,
+    "wrRecent200": 63.5,
+    "rating": 1751,
+    "peakRating": 2157,
+    "mainChar": "Alisa",
+    "mainCharGames": 5248,
+    "chars": {
+     "Zafina": {
+      "games": 4360,
+      "wrOverall": 51.5,
+      "wrRecent": 52
+     },
+     "Nina": {
+      "games": 2005,
+      "wrOverall": 47.8,
+      "wrRecent": 53
+     },
+     "Reina": {
+      "games": 69,
+      "wrOverall": 26.1,
+      "wrRecent": 26.1
+     },
+     "Hwoarang": {
+      "games": 98,
+      "wrOverall": 35.7,
+      "wrRecent": 35.7
+     },
+     "Lili": {
+      "games": 861,
+      "wrOverall": 46.5,
+      "wrRecent": 48
+     },
+     "Alisa": {
+      "games": 5248,
+      "wrOverall": 50.8,
+      "wrRecent": 65
+     },
+     "Lidia": {
+      "games": 2194,
+      "wrOverall": 51.1,
+      "wrRecent": 63
+     },
+     "Anna": {
+      "games": 1526,
+      "wrOverall": 52,
+      "wrRecent": 60
+     },
+     "Miary Zo": {
+      "games": 402,
+      "wrOverall": 52.2,
+      "wrRecent": 47
+     },
+     "Kunimitsu": {
+      "games": 121,
+      "wrOverall": 44.6,
+      "wrRecent": 47
+     }
+    },
+    "stopAfter": 35,
+    "dropPp": 3.2,
+    "riseAfter": null,
+    "risePp": null,
+    "adviceReliable": true
+   }
   }
  ]
 }
