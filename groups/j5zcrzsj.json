@@ -4,42 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "AzuRei",
-   "id": "4nhQ68hfHmMd",
-   "registeredAt": 1786245834,
-   "stats": {
-    "id": "4nhQ68hfHmMd",
-    "name": "AzuRei",
-    "fetchedAt": 1786239983,
-    "games": 3922,
-    "lastPlayed": 1785778375,
-    "lastVersion": 30101,
-    "wrOverall": 45.3,
-    "wrRecent200": 44,
-    "rating": 1422,
-    "peakRating": 1826,
-    "mainChar": "Reina",
-    "mainCharGames": 2588,
-    "chars": {
-     "Hwoarang": {
-      "games": 1315,
-      "wrOverall": 51.4,
-      "wrRecent": 42
-     },
-     "Reina": {
-      "games": 2588,
-      "wrOverall": 42.4,
-      "wrRecent": 47
-     }
-    },
-    "stopAfter": 15,
-    "dropPp": 4.1,
-    "riseAfter": 30,
-    "risePp": 3,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "Rainyzoo",
    "id": "3NJAAGe2fn68",
    "registeredAt": 1786245836,
@@ -4890,6 +4854,46 @@
     "dropPp": 3.9,
     "riseAfter": 30,
     "risePp": 4.2,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "AzuRei",
+   "id": "4nhQ68hfHmMd",
+   "registeredAt": 1786248378,
+   "stats": {
+    "id": "4nhQ68hfHmMd",
+    "name": "AzuRei",
+    "fetchedAt": 1786248378,
+    "games": 3922,
+    "lastPlayed": 1785778375,
+    "lastVersion": 30101,
+    "wrOverall": 45.3,
+    "wrRecent200": 44,
+    "rating": 1565,
+    "peakRating": 1744,
+    "mainChar": "Reina",
+    "mainCharGames": 2588,
+    "chars": {
+     "Hwoarang": {
+      "games": 1315,
+      "wrOverall": 51.4,
+      "wrRecent": 42,
+      "rating": 1422,
+      "peakRating": 1826
+     },
+     "Reina": {
+      "games": 2588,
+      "wrOverall": 42.4,
+      "wrRecent": 47,
+      "rating": 1565,
+      "peakRating": 1744
+     }
+    },
+    "stopAfter": 15,
+    "dropPp": 4.1,
+    "riseAfter": 30,
+    "risePp": 3,
     "adviceReliable": true
    }
   }
