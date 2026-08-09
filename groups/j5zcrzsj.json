@@ -4,97 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "녹단라스",
-   "id": "63gqffefrYyQ",
-   "registeredAt": 1786245764,
-   "stats": {
-    "id": "63gqffefrYyQ",
-    "name": "녹단라스",
-    "fetchedAt": 1786239789,
-    "games": 5697,
-    "lastPlayed": 1786094791,
-    "lastVersion": 30101,
-    "wrOverall": 62.8,
-    "wrRecent200": 63.5,
-    "rating": 2043,
-    "peakRating": 2532,
-    "mainChar": "Lars",
-    "mainCharGames": 3581,
-    "chars": {
-     "Lars": {
-      "games": 3581,
-      "wrOverall": 58.1,
-      "wrRecent": 61
-     },
-     "Dragunov": {
-      "games": 532,
-      "wrOverall": 68.6,
-      "wrRecent": 64
-     },
-     "Lidia": {
-      "games": 69,
-      "wrOverall": 75.4,
-      "wrRecent": 75.4
-     },
-     "Feng": {
-      "games": 627,
-      "wrOverall": 66.8,
-      "wrRecent": 62
-     },
-     "Jack-8": {
-      "games": 86,
-      "wrOverall": 79.1,
-      "wrRecent": 79.1
-     },
-     "Bryan": {
-      "games": 299,
-      "wrOverall": 64.5,
-      "wrRecent": 65
-     },
-     "Kazuya": {
-      "games": 68,
-      "wrOverall": 82.4,
-      "wrRecent": 82.4
-     },
-     "Zafina": {
-      "games": 29,
-      "wrOverall": 75.9,
-      "wrRecent": 75.9
-     },
-     "Hwoarang": {
-      "games": 51,
-      "wrOverall": 78.4,
-      "wrRecent": 78.4
-     },
-     "Lili": {
-      "games": 29,
-      "wrOverall": 86.2,
-      "wrRecent": 86.2
-     },
-     "Jin": {
-      "games": 76,
-      "wrOverall": 90.8,
-      "wrRecent": 90.8
-     },
-     "Armor King": {
-      "games": 104,
-      "wrOverall": 78.8,
-      "wrRecent": 79
-     },
-     "Fahkumram": {
-      "games": 128,
-      "wrOverall": 74.2,
-      "wrRecent": 71
-     }
-    },
-    "stopAfter": 30,
-    "dropPp": 8.8,
-    "riseAfter": 25,
-    "risePp": 3.9,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "메테오",
    "id": "4LDH2FMFhqQa",
    "registeredAt": 1786245766,
@@ -4106,6 +4015,123 @@
     "dropPp": 4.2,
     "riseAfter": null,
     "risePp": null,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "녹단라스",
+   "id": "63gqffefrYyQ",
+   "registeredAt": 1786248104,
+   "stats": {
+    "id": "63gqffefrYyQ",
+    "name": "녹단라스",
+    "fetchedAt": 1786248104,
+    "games": 5697,
+    "lastPlayed": 1786094791,
+    "lastVersion": 30101,
+    "wrOverall": 62.8,
+    "wrRecent200": 63.5,
+    "rating": 2307,
+    "peakRating": 2532,
+    "mainChar": "Lars",
+    "mainCharGames": 3581,
+    "chars": {
+     "Lars": {
+      "games": 3581,
+      "wrOverall": 58.1,
+      "wrRecent": 61,
+      "rating": 2307,
+      "peakRating": 2532
+     },
+     "Dragunov": {
+      "games": 532,
+      "wrOverall": 68.6,
+      "wrRecent": 64,
+      "rating": 2043,
+      "peakRating": 2256
+     },
+     "Lidia": {
+      "games": 69,
+      "wrOverall": 75.4,
+      "wrRecent": 75.4,
+      "rating": 1937,
+      "peakRating": 1937
+     },
+     "Feng": {
+      "games": 627,
+      "wrOverall": 66.8,
+      "wrRecent": 62,
+      "rating": 2118,
+      "peakRating": 2194
+     },
+     "Jack-8": {
+      "games": 86,
+      "wrOverall": 79.1,
+      "wrRecent": 79.1,
+      "rating": 2070,
+      "peakRating": 2108
+     },
+     "Bryan": {
+      "games": 299,
+      "wrOverall": 64.5,
+      "wrRecent": 65,
+      "rating": 2077,
+      "peakRating": 2125
+     },
+     "Kazuya": {
+      "games": 68,
+      "wrOverall": 82.4,
+      "wrRecent": 82.4,
+      "rating": 1989,
+      "peakRating": 1989
+     },
+     "Zafina": {
+      "games": 29,
+      "wrOverall": 75.9,
+      "wrRecent": 75.9,
+      "rating": 1815,
+      "peakRating": 1888
+     },
+     "Hwoarang": {
+      "games": 51,
+      "wrOverall": 78.4,
+      "wrRecent": 78.4,
+      "rating": 1843,
+      "peakRating": 1880
+     },
+     "Lili": {
+      "games": 29,
+      "wrOverall": 86.2,
+      "wrRecent": 86.2,
+      "rating": 1888,
+      "peakRating": 1911
+     },
+     "Jin": {
+      "games": 76,
+      "wrOverall": 90.8,
+      "wrRecent": 90.8,
+      "rating": 2106,
+      "peakRating": 2106
+     },
+     "Armor King": {
+      "games": 104,
+      "wrOverall": 78.8,
+      "wrRecent": 79,
+      "rating": 2124,
+      "peakRating": 2124
+     },
+     "Fahkumram": {
+      "games": 128,
+      "wrOverall": 74.2,
+      "wrRecent": 71,
+      "rating": 2114,
+      "peakRating": 2114
+     }
+    },
+    "stopAfter": 30,
+    "dropPp": 8.8,
+    "riseAfter": 25,
+    "risePp": 3.9,
     "adviceReliable": true
    }
   }
