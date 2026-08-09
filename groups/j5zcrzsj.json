@@ -3461,6 +3461,37 @@
     "risePp": 4,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "아머파댕이",
+   "id": "4Ad45DY8TqdJ",
+   "registeredAt": 1786245843,
+   "stats": {
+    "id": "4Ad45DY8TqdJ",
+    "name": "아머파댕이",
+    "fetchedAt": 1786239999,
+    "games": 353,
+    "lastPlayed": 1783684403,
+    "lastVersion": 30101,
+    "wrOverall": 60.1,
+    "wrRecent200": 55.5,
+    "rating": 1457,
+    "peakRating": 2008,
+    "mainChar": "Armor King",
+    "mainCharGames": 353,
+    "chars": {
+     "Armor King": {
+      "games": 353,
+      "wrOverall": 60.1,
+      "wrRecent": 57
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 5,
+    "risePp": 4.9,
+    "adviceReliable": false
+   }
   }
  ]
 }
