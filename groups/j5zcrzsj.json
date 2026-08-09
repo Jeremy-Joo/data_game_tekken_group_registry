@@ -1223,6 +1223,37 @@
     "risePp": 3.7,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "bocho",
+   "id": "3q5LAQfBFeTr",
+   "registeredAt": 1786245785,
+   "stats": {
+    "id": "3q5LAQfBFeTr",
+    "name": "bocho",
+    "fetchedAt": 1786239850,
+    "games": 9508,
+    "lastPlayed": 1786239464,
+    "lastVersion": 30101,
+    "wrOverall": 49.5,
+    "wrRecent200": 51.5,
+    "rating": 1800,
+    "peakRating": 2091,
+    "mainChar": "Reina",
+    "mainCharGames": 9508,
+    "chars": {
+     "Reina": {
+      "games": 9508,
+      "wrOverall": 49.5,
+      "wrRecent": 54
+     }
+    },
+    "stopAfter": 0,
+    "dropPp": 4.4,
+    "riseAfter": null,
+    "risePp": null,
+    "adviceReliable": true
+   }
   }
  ]
 }
