@@ -4,82 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "누구인가?",
-   "id": "5RBJRjAnrgQ2",
-   "registeredAt": 1786245815,
-   "stats": {
-    "id": "5RBJRjAnrgQ2",
-    "name": "누구인가?",
-    "fetchedAt": 1786239944,
-    "games": 2779,
-    "lastPlayed": 1785644504,
-    "lastVersion": 30101,
-    "wrOverall": 61.8,
-    "wrRecent200": 58,
-    "rating": 1733,
-    "peakRating": 1845,
-    "mainChar": "Jack-8",
-    "mainCharGames": 558,
-    "chars": {
-     "Reina": {
-      "games": 157,
-      "wrOverall": 70.1,
-      "wrRecent": 68
-     },
-     "Alisa": {
-      "games": 234,
-      "wrOverall": 64.1,
-      "wrRecent": 57
-     },
-     "Zafina": {
-      "games": 488,
-      "wrOverall": 59.4,
-      "wrRecent": 52
-     },
-     "Lidia": {
-      "games": 243,
-      "wrOverall": 65,
-      "wrRecent": 58
-     },
-     "Feng": {
-      "games": 299,
-      "wrOverall": 60.2,
-      "wrRecent": 51
-     },
-     "Heihachi": {
-      "games": 292,
-      "wrOverall": 56.2,
-      "wrRecent": 53
-     },
-     "Clive": {
-      "games": 191,
-      "wrOverall": 65.4,
-      "wrRecent": 68
-     },
-     "Jack-8": {
-      "games": 558,
-      "wrOverall": 60.8,
-      "wrRecent": 72
-     },
-     "Asuka": {
-      "games": 195,
-      "wrOverall": 63.6,
-      "wrRecent": 65
-     },
-     "Jun": {
-      "games": 122,
-      "wrOverall": 63.1,
-      "wrRecent": 66
-     }
-    },
-    "stopAfter": 25,
-    "dropPp": 3.2,
-    "riseAfter": 15,
-    "risePp": 3.4,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "악마쫑이",
    "id": "52rb7tD8Qfjf",
    "registeredAt": 1786245816,
@@ -4678,6 +4602,102 @@
     "dropPp": null,
     "riseAfter": 35,
     "risePp": 3.5,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "누구인가?",
+   "id": "5RBJRjAnrgQ2",
+   "registeredAt": 1786248317,
+   "stats": {
+    "id": "5RBJRjAnrgQ2",
+    "name": "누구인가?",
+    "fetchedAt": 1786248317,
+    "games": 2779,
+    "lastPlayed": 1785644504,
+    "lastVersion": 30101,
+    "wrOverall": 61.8,
+    "wrRecent200": 58,
+    "rating": 1753,
+    "peakRating": 1845,
+    "mainChar": "Jack-8",
+    "mainCharGames": 558,
+    "chars": {
+     "Reina": {
+      "games": 157,
+      "wrOverall": 70.1,
+      "wrRecent": 68,
+      "rating": 1710,
+      "peakRating": 1767
+     },
+     "Alisa": {
+      "games": 234,
+      "wrOverall": 64.1,
+      "wrRecent": 57,
+      "rating": 1659,
+      "peakRating": 1756
+     },
+     "Zafina": {
+      "games": 488,
+      "wrOverall": 59.4,
+      "wrRecent": 52,
+      "rating": 1564,
+      "peakRating": 1780
+     },
+     "Lidia": {
+      "games": 243,
+      "wrOverall": 65,
+      "wrRecent": 58,
+      "rating": 1650,
+      "peakRating": 1716
+     },
+     "Feng": {
+      "games": 299,
+      "wrOverall": 60.2,
+      "wrRecent": 51,
+      "rating": 1580,
+      "peakRating": 1730
+     },
+     "Heihachi": {
+      "games": 292,
+      "wrOverall": 56.2,
+      "wrRecent": 53,
+      "rating": 1611,
+      "peakRating": 1655
+     },
+     "Clive": {
+      "games": 191,
+      "wrOverall": 65.4,
+      "wrRecent": 68,
+      "rating": 1651,
+      "peakRating": 1672
+     },
+     "Jack-8": {
+      "games": 558,
+      "wrOverall": 60.8,
+      "wrRecent": 72,
+      "rating": 1753,
+      "peakRating": 1845
+     },
+     "Asuka": {
+      "games": 195,
+      "wrOverall": 63.6,
+      "wrRecent": 65,
+      "rating": 1686,
+      "peakRating": 1769
+     },
+     "Jun": {
+      "games": 122,
+      "wrOverall": 63.1,
+      "wrRecent": 66,
+      "rating": 1733,
+      "peakRating": 1773
+     }
+    },
+    "stopAfter": 25,
+    "dropPp": 3.2,
+    "riseAfter": 15,
+    "risePp": 3.4,
     "adviceReliable": true
    }
   }
