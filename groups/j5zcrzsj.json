@@ -4,92 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "응나락이야",
-   "id": "2rtdmgTG9Amy",
-   "registeredAt": 1786245862,
-   "stats": {
-    "id": "2rtdmgTG9Amy",
-    "name": "응 나락이야",
-    "fetchedAt": 1786240026,
-    "games": 5752,
-    "lastPlayed": 1765403907,
-    "lastVersion": 20800,
-    "wrOverall": 53,
-    "wrRecent200": 59,
-    "rating": 1822,
-    "peakRating": 2003,
-    "mainChar": "Kazuya",
-    "mainCharGames": 2838,
-    "chars": {
-     "Kazuya": {
-      "games": 2838,
-      "wrOverall": 50.6,
-      "wrRecent": 57
-     },
-     "Nina": {
-      "games": 322,
-      "wrOverall": 55,
-      "wrRecent": 55
-     },
-     "King": {
-      "games": 21,
-      "wrOverall": 52.4,
-      "wrRecent": 52.4
-     },
-     "Jack-8": {
-      "games": 193,
-      "wrOverall": 63.2,
-      "wrRecent": 66
-     },
-     "Devil Jin": {
-      "games": 615,
-      "wrOverall": 52.8,
-      "wrRecent": 49
-     },
-     "Reina": {
-      "games": 82,
-      "wrOverall": 62.2,
-      "wrRecent": 62.2
-     },
-     "Dragunov": {
-      "games": 469,
-      "wrOverall": 51,
-      "wrRecent": 57
-     },
-     "Steve": {
-      "games": 126,
-      "wrOverall": 56.3,
-      "wrRecent": 53
-     },
-     "Heihachi": {
-      "games": 301,
-      "wrOverall": 58.8,
-      "wrRecent": 65
-     },
-     "Xiaoyu": {
-      "games": 404,
-      "wrOverall": 53.5,
-      "wrRecent": 53
-     },
-     "Anna": {
-      "games": 175,
-      "wrOverall": 58.3,
-      "wrRecent": 62
-     },
-     "Fahkumram": {
-      "games": 201,
-      "wrOverall": 59.7,
-      "wrRecent": 61
-     }
-    },
-    "stopAfter": null,
-    "dropPp": null,
-    "riseAfter": 45,
-    "risePp": 7.8,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "차무식입니다",
    "id": "28Re74tamiYT",
    "registeredAt": 1786245863,
@@ -5014,6 +4928,116 @@
     "dropPp": 3.9,
     "riseAfter": 10,
     "risePp": 7,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "응나락이야",
+   "id": "2rtdmgTG9Amy",
+   "registeredAt": 1786248451,
+   "stats": {
+    "id": "2rtdmgTG9Amy",
+    "name": "응 나락이야",
+    "fetchedAt": 1786248451,
+    "games": 5752,
+    "lastPlayed": 1765403907,
+    "lastVersion": 20800,
+    "wrOverall": 53,
+    "wrRecent200": 59,
+    "rating": 1822,
+    "peakRating": 2003,
+    "mainChar": "Kazuya",
+    "mainCharGames": 2838,
+    "chars": {
+     "Kazuya": {
+      "games": 2838,
+      "wrOverall": 50.6,
+      "wrRecent": 57,
+      "rating": 1822,
+      "peakRating": 2003
+     },
+     "Nina": {
+      "games": 322,
+      "wrOverall": 55,
+      "wrRecent": 55,
+      "rating": 1713,
+      "peakRating": 1781
+     },
+     "King": {
+      "games": 21,
+      "wrOverall": 52.4,
+      "wrRecent": 52.4,
+      "rating": 1549,
+      "peakRating": 1589
+     },
+     "Jack-8": {
+      "games": 193,
+      "wrOverall": 63.2,
+      "wrRecent": 66,
+      "rating": 1712,
+      "peakRating": 1712
+     },
+     "Devil Jin": {
+      "games": 615,
+      "wrOverall": 52.8,
+      "wrRecent": 49,
+      "rating": 1690,
+      "peakRating": 1860
+     },
+     "Reina": {
+      "games": 82,
+      "wrOverall": 62.2,
+      "wrRecent": 62.2,
+      "rating": 1623,
+      "peakRating": 1720
+     },
+     "Dragunov": {
+      "games": 469,
+      "wrOverall": 51,
+      "wrRecent": 57,
+      "rating": 1741,
+      "peakRating": 1900
+     },
+     "Steve": {
+      "games": 126,
+      "wrOverall": 56.3,
+      "wrRecent": 53,
+      "rating": 1556,
+      "peakRating": 1626
+     },
+     "Heihachi": {
+      "games": 301,
+      "wrOverall": 58.8,
+      "wrRecent": 65,
+      "rating": 1775,
+      "peakRating": 1786
+     },
+     "Xiaoyu": {
+      "games": 404,
+      "wrOverall": 53.5,
+      "wrRecent": 53,
+      "rating": 1655,
+      "peakRating": 1716
+     },
+     "Anna": {
+      "games": 175,
+      "wrOverall": 58.3,
+      "wrRecent": 62,
+      "rating": 1795,
+      "peakRating": 1795
+     },
+     "Fahkumram": {
+      "games": 201,
+      "wrOverall": 59.7,
+      "wrRecent": 61,
+      "rating": 1775,
+      "peakRating": 1848
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 45,
+    "risePp": 7.8,
     "adviceReliable": true
    }
   }
