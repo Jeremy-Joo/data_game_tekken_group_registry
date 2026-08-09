@@ -1,3 +1,9 @@
 {
- "groups": []
+ "groups": [
+  {
+   "slug": "5zaa7qde",
+   "name": "테스트그룹",
+   "createdAt": 1786242910
+  }
+ ]
 }
