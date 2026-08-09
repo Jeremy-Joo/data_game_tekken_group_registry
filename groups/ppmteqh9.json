@@ -94,6 +94,117 @@
     "risePp": null,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "OKAY (무럭)",
+   "id": "57aBm56NfA8y",
+   "registeredAt": 1786243627,
+   "stats": {
+    "id": "57aBm56NfA8y",
+    "name": "OKAY",
+    "fetchedAt": 1786239772,
+    "games": 21703,
+    "lastPlayed": 1785998409,
+    "lastVersion": 30101,
+    "wrOverall": 51.4,
+    "wrRecent200": 49.5,
+    "rating": 2216,
+    "peakRating": 2482,
+    "mainChar": "Asuka",
+    "mainCharGames": 16666,
+    "chars": {
+     "Asuka": {
+      "games": 16666,
+      "wrOverall": 52.4,
+      "wrRecent": 53
+     },
+     "Azucena": {
+      "games": 72,
+      "wrOverall": 50,
+      "wrRecent": 50
+     },
+     "Steve": {
+      "games": 562,
+      "wrOverall": 50,
+      "wrRecent": 43
+     },
+     "Lili": {
+      "games": 26,
+      "wrOverall": 46.2,
+      "wrRecent": 46.2
+     },
+     "Dragunov": {
+      "games": 3279,
+      "wrOverall": 47.1,
+      "wrRecent": 47
+     },
+     "Bryan": {
+      "games": 28,
+      "wrOverall": 35.7,
+      "wrRecent": 35.7
+     },
+     "Jun": {
+      "games": 49,
+      "wrOverall": 38.8,
+      "wrRecent": 38.8
+     },
+     "Shaheen": {
+      "games": 233,
+      "wrOverall": 54.1,
+      "wrRecent": 50
+     },
+     "Kazuya": {
+      "games": 21,
+      "wrOverall": 38.1,
+      "wrRecent": 38.1
+     },
+     "Claudio": {
+      "games": 152,
+      "wrOverall": 58.6,
+      "wrRecent": 61
+     },
+     "King": {
+      "games": 55,
+      "wrOverall": 69.1,
+      "wrRecent": 69.1
+     },
+     "Hwoarang": {
+      "games": 28,
+      "wrOverall": 32.1,
+      "wrRecent": 32.1
+     },
+     "Feng": {
+      "games": 22,
+      "wrOverall": 36.4,
+      "wrRecent": 36.4
+     },
+     "Zafina": {
+      "games": 65,
+      "wrOverall": 63.1,
+      "wrRecent": 63.1
+     },
+     "Anna": {
+      "games": 26,
+      "wrOverall": 38.5,
+      "wrRecent": 38.5
+     },
+     "Fahkumram": {
+      "games": 34,
+      "wrOverall": 35.3,
+      "wrRecent": 35.3
+     },
+     "Miary Zo": {
+      "games": 348,
+      "wrOverall": 46.3,
+      "wrRecent": 41
+     }
+    },
+    "stopAfter": 55,
+    "dropPp": 4.2,
+    "riseAfter": null,
+    "risePp": null,
+    "adviceReliable": true
+   }
   }
  ]
 }
