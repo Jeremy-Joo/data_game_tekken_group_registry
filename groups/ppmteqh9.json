@@ -1690,6 +1690,77 @@
     "risePp": null,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "RAINY75",
+   "id": "36hnmY6A24G2",
+   "registeredAt": 1786243661,
+   "stats": {
+    "id": "36hnmY6A24G2",
+    "name": "RAINY75",
+    "fetchedAt": 1786239890,
+    "games": 8750,
+    "lastPlayed": 1785161808,
+    "lastVersion": 30101,
+    "wrOverall": 51.3,
+    "wrRecent200": 52,
+    "rating": 1853,
+    "peakRating": 2086,
+    "mainChar": "Jun",
+    "mainCharGames": 3382,
+    "chars": {
+     "Azucena": {
+      "games": 20,
+      "wrOverall": 40,
+      "wrRecent": 40
+     },
+     "Lili": {
+      "games": 2934,
+      "wrOverall": 50.5,
+      "wrRecent": 55
+     },
+     "Reina": {
+      "games": 457,
+      "wrOverall": 51.6,
+      "wrRecent": 52
+     },
+     "Heihachi": {
+      "games": 429,
+      "wrOverall": 56.2,
+      "wrRecent": 54
+     },
+     "Kazuya": {
+      "games": 232,
+      "wrOverall": 47.4,
+      "wrRecent": 55
+     },
+     "Nina": {
+      "games": 208,
+      "wrOverall": 58.2,
+      "wrRecent": 60
+     },
+     "Jun": {
+      "games": 3382,
+      "wrOverall": 50.4,
+      "wrRecent": 60
+     },
+     "Anna": {
+      "games": 1042,
+      "wrOverall": 53.4,
+      "wrRecent": 52
+     },
+     "Jin": {
+      "games": 46,
+      "wrOverall": 60.9,
+      "wrRecent": 60.9
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 40,
+    "risePp": 7,
+    "adviceReliable": true
+   }
   }
  ]
 }
