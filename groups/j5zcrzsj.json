@@ -4,57 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "기류사단",
-   "id": "4JGy2FayQFMT",
-   "registeredAt": 1786245845,
-   "stats": {
-    "id": "4JGy2FayQFMT",
-    "name": "기류사단",
-    "fetchedAt": 1786240002,
-    "games": 1080,
-    "lastPlayed": 1786170151,
-    "lastVersion": 30101,
-    "wrOverall": 63.9,
-    "wrRecent200": 70,
-    "rating": 1709,
-    "peakRating": 1846,
-    "mainChar": "Jin",
-    "mainCharGames": 545,
-    "chars": {
-     "Jin": {
-      "games": 545,
-      "wrOverall": 60.7,
-      "wrRecent": 64
-     },
-     "Devil Jin": {
-      "games": 158,
-      "wrOverall": 69,
-      "wrRecent": 71
-     },
-     "Kazuya": {
-      "games": 266,
-      "wrOverall": 64.3,
-      "wrRecent": 65
-     },
-     "Xiaoyu": {
-      "games": 32,
-      "wrOverall": 59.4,
-      "wrRecent": 59.4
-     },
-     "Heihachi": {
-      "games": 61,
-      "wrOverall": 75.4,
-      "wrRecent": 75.4
-     }
-    },
-    "stopAfter": 25,
-    "dropPp": 5.4,
-    "riseAfter": 20,
-    "risePp": 5.7,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "blursick",
    "id": "3N5Y87itdjnE",
    "registeredAt": 1786245847,
@@ -4933,6 +4882,67 @@
     "riseAfter": 5,
     "risePp": 4.9,
     "adviceReliable": false
+   }
+  },
+  {
+   "nick": "기류사단",
+   "id": "4JGy2FayQFMT",
+   "registeredAt": 1786248409,
+   "stats": {
+    "id": "4JGy2FayQFMT",
+    "name": "기류사단",
+    "fetchedAt": 1786248409,
+    "games": 1080,
+    "lastPlayed": 1786170151,
+    "lastVersion": 30101,
+    "wrOverall": 63.9,
+    "wrRecent200": 70,
+    "rating": 1691,
+    "peakRating": 1846,
+    "mainChar": "Jin",
+    "mainCharGames": 545,
+    "chars": {
+     "Jin": {
+      "games": 545,
+      "wrOverall": 60.7,
+      "wrRecent": 64,
+      "rating": 1691,
+      "peakRating": 1846
+     },
+     "Devil Jin": {
+      "games": 158,
+      "wrOverall": 69,
+      "wrRecent": 71,
+      "rating": 1709,
+      "peakRating": 1760
+     },
+     "Kazuya": {
+      "games": 266,
+      "wrOverall": 64.3,
+      "wrRecent": 65,
+      "rating": 1618,
+      "peakRating": 1817
+     },
+     "Xiaoyu": {
+      "games": 32,
+      "wrOverall": 59.4,
+      "wrRecent": 59.4,
+      "rating": 1532,
+      "peakRating": 1812
+     },
+     "Heihachi": {
+      "games": 61,
+      "wrOverall": 75.4,
+      "wrRecent": 75.4,
+      "rating": 1664,
+      "peakRating": 1684
+     }
+    },
+    "stopAfter": 25,
+    "dropPp": 5.4,
+    "riseAfter": 20,
+    "risePp": 5.7,
+    "adviceReliable": true
    }
   }
  ]
