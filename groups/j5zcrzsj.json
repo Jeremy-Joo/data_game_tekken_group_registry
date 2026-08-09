@@ -2869,6 +2869,57 @@
     "risePp": 3.5,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "정택",
+   "id": "3d2BAJLQHF5d",
+   "registeredAt": 1786245822,
+   "stats": {
+    "id": "3d2BAJLQHF5d",
+    "name": "JungTaek",
+    "fetchedAt": 1786239959,
+    "games": 1951,
+    "lastPlayed": 1785642674,
+    "lastVersion": 30101,
+    "wrOverall": 58.7,
+    "wrRecent200": 63.5,
+    "rating": 1718,
+    "peakRating": 1913,
+    "mainChar": "Jin",
+    "mainCharGames": 710,
+    "chars": {
+     "Jin": {
+      "games": 710,
+      "wrOverall": 58.9,
+      "wrRecent": 64
+     },
+     "Kazuya": {
+      "games": 621,
+      "wrOverall": 54.9,
+      "wrRecent": 62
+     },
+     "Devil Jin": {
+      "games": 372,
+      "wrOverall": 63.7,
+      "wrRecent": 66
+     },
+     "Hwoarang": {
+      "games": 118,
+      "wrOverall": 54.2,
+      "wrRecent": 55
+     },
+     "Heihachi": {
+      "games": 130,
+      "wrOverall": 65.4,
+      "wrRecent": 64
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 15,
+    "risePp": 7.4,
+    "adviceReliable": true
+   }
   }
  ]
 }
