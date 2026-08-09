@@ -4,182 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "Daddyrang",
-   "id": "5G93GL4TRrfM",
-   "registeredAt": 1786245770,
-   "stats": {
-    "id": "5G93GL4TRrfM",
-    "name": "Daddyrang",
-    "fetchedAt": 1786239807,
-    "games": 25448,
-    "lastPlayed": 1786239464,
-    "lastVersion": 30101,
-    "wrOverall": 53.3,
-    "wrRecent200": 57,
-    "rating": 1950,
-    "peakRating": 2367,
-    "mainChar": "Hwoarang",
-    "mainCharGames": 6445,
-    "chars": {
-     "Hwoarang": {
-      "games": 6445,
-      "wrOverall": 52.1,
-      "wrRecent": 53
-     },
-     "Steve": {
-      "games": 3171,
-      "wrOverall": 53.3,
-      "wrRecent": 54
-     },
-     "Jin": {
-      "games": 1004,
-      "wrOverall": 55.7,
-      "wrRecent": 60
-     },
-     "Law": {
-      "games": 3634,
-      "wrOverall": 51.9,
-      "wrRecent": 45
-     },
-     "Feng": {
-      "games": 980,
-      "wrOverall": 55.9,
-      "wrRecent": 55
-     },
-     "Leo": {
-      "games": 235,
-      "wrOverall": 59.1,
-      "wrRecent": 56
-     },
-     "Bryan": {
-      "games": 1109,
-      "wrOverall": 52.3,
-      "wrRecent": 56
-     },
-     "Leroy": {
-      "games": 407,
-      "wrOverall": 59,
-      "wrRecent": 54
-     },
-     "Victor": {
-      "games": 24,
-      "wrOverall": 62.5,
-      "wrRecent": 62.5
-     },
-     "Raven": {
-      "games": 2340,
-      "wrOverall": 54.5,
-      "wrRecent": 54
-     },
-     "Lars": {
-      "games": 951,
-      "wrOverall": 52.7,
-      "wrRecent": 61
-     },
-     "Paul": {
-      "games": 26,
-      "wrOverall": 38.5,
-      "wrRecent": 38.5
-     },
-     "Lee": {
-      "games": 418,
-      "wrOverall": 57.4,
-      "wrRecent": 53
-     },
-     "Dragunov": {
-      "games": 152,
-      "wrOverall": 53.3,
-      "wrRecent": 55
-     },
-     "Panda": {
-      "games": 83,
-      "wrOverall": 42.2,
-      "wrRecent": 42.2
-     },
-     "Claudio": {
-      "games": 257,
-      "wrOverall": 58.8,
-      "wrRecent": 58
-     },
-     "Jun": {
-      "games": 39,
-      "wrOverall": 51.3,
-      "wrRecent": 51.3
-     },
-     "Asuka": {
-      "games": 1353,
-      "wrOverall": 52.9,
-      "wrRecent": 52
-     },
-     "Alisa": {
-      "games": 37,
-      "wrOverall": 40.5,
-      "wrRecent": 40.5
-     },
-     "Lidia": {
-      "games": 41,
-      "wrOverall": 53.7,
-      "wrRecent": 53.7
-     },
-     "Clive": {
-      "games": 990,
-      "wrOverall": 54.7,
-      "wrRecent": 61
-     },
-     "Azucena": {
-      "games": 504,
-      "wrOverall": 59.3,
-      "wrRecent": 57
-     },
-     "Xiaoyu": {
-      "games": 69,
-      "wrOverall": 49.3,
-      "wrRecent": 49.3
-     },
-     "Nina": {
-      "games": 22,
-      "wrOverall": 54.5,
-      "wrRecent": 54.5
-     },
-     "Fahkumram": {
-      "games": 225,
-      "wrOverall": 56.4,
-      "wrRecent": 62
-     },
-     "Anna": {
-      "games": 490,
-      "wrOverall": 50.6,
-      "wrRecent": 52
-     },
-     "Armor King": {
-      "games": 330,
-      "wrOverall": 49.7,
-      "wrRecent": 51
-     },
-     "Miary Zo": {
-      "games": 40,
-      "wrOverall": 45,
-      "wrRecent": 45
-     },
-     "Heihachi": {
-      "games": 35,
-      "wrOverall": 51.4,
-      "wrRecent": 51.4
-     },
-     "Kazuya": {
-      "games": 37,
-      "wrOverall": 45.9,
-      "wrRecent": 45.9
-     }
-    },
-    "stopAfter": 50,
-    "dropPp": 3.7,
-    "riseAfter": null,
-    "risePp": null,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "제임스봉투",
    "id": "3efyyMn8mgFB",
    "registeredAt": 1786245772,
@@ -4192,6 +4016,242 @@
     "dropPp": null,
     "riseAfter": 30,
     "risePp": 5.5,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "Daddyrang",
+   "id": "5G93GL4TRrfM",
+   "registeredAt": 1786248135,
+   "stats": {
+    "id": "5G93GL4TRrfM",
+    "name": "Daddyrang",
+    "fetchedAt": 1786248135,
+    "games": 25448,
+    "lastPlayed": 1786239464,
+    "lastVersion": 30101,
+    "wrOverall": 53.3,
+    "wrRecent200": 57,
+    "rating": 2085,
+    "peakRating": 2367,
+    "mainChar": "Hwoarang",
+    "mainCharGames": 6445,
+    "chars": {
+     "Hwoarang": {
+      "games": 6445,
+      "wrOverall": 52.1,
+      "wrRecent": 53,
+      "rating": 2085,
+      "peakRating": 2367
+     },
+     "Steve": {
+      "games": 3171,
+      "wrOverall": 53.3,
+      "wrRecent": 54,
+      "rating": 1950,
+      "peakRating": 2201
+     },
+     "Jin": {
+      "games": 1004,
+      "wrOverall": 55.7,
+      "wrRecent": 60,
+      "rating": 1967,
+      "peakRating": 2123
+     },
+     "Law": {
+      "games": 3634,
+      "wrOverall": 51.9,
+      "wrRecent": 45,
+      "rating": 1983,
+      "peakRating": 2284
+     },
+     "Feng": {
+      "games": 980,
+      "wrOverall": 55.9,
+      "wrRecent": 55,
+      "rating": 2093,
+      "peakRating": 2093
+     },
+     "Leo": {
+      "games": 235,
+      "wrOverall": 59.1,
+      "wrRecent": 56,
+      "rating": 1901,
+      "peakRating": 1939
+     },
+     "Bryan": {
+      "games": 1109,
+      "wrOverall": 52.3,
+      "wrRecent": 56,
+      "rating": 1907,
+      "peakRating": 2023
+     },
+     "Leroy": {
+      "games": 407,
+      "wrOverall": 59,
+      "wrRecent": 54,
+      "rating": 1909,
+      "peakRating": 1944
+     },
+     "Victor": {
+      "games": 24,
+      "wrOverall": 62.5,
+      "wrRecent": 62.5,
+      "rating": 1645,
+      "peakRating": 1720
+     },
+     "Raven": {
+      "games": 2340,
+      "wrOverall": 54.5,
+      "wrRecent": 54,
+      "rating": 2151,
+      "peakRating": 2228
+     },
+     "Lars": {
+      "games": 951,
+      "wrOverall": 52.7,
+      "wrRecent": 61,
+      "rating": 1966,
+      "peakRating": 2195
+     },
+     "Paul": {
+      "games": 26,
+      "wrOverall": 38.5,
+      "wrRecent": 38.5,
+      "rating": 1622,
+      "peakRating": 1622
+     },
+     "Lee": {
+      "games": 418,
+      "wrOverall": 57.4,
+      "wrRecent": 53,
+      "rating": 1969,
+      "peakRating": 2003
+     },
+     "Dragunov": {
+      "games": 152,
+      "wrOverall": 53.3,
+      "wrRecent": 55,
+      "rating": 1611,
+      "peakRating": 1734
+     },
+     "Panda": {
+      "games": 83,
+      "wrOverall": 42.2,
+      "wrRecent": 42.2,
+      "rating": 1598,
+      "peakRating": 1616
+     },
+     "Claudio": {
+      "games": 257,
+      "wrOverall": 58.8,
+      "wrRecent": 58,
+      "rating": 1948,
+      "peakRating": 1957
+     },
+     "Jun": {
+      "games": 39,
+      "wrOverall": 51.3,
+      "wrRecent": 51.3,
+      "rating": 1686,
+      "peakRating": 1764
+     },
+     "Asuka": {
+      "games": 1353,
+      "wrOverall": 52.9,
+      "wrRecent": 52,
+      "rating": 1929,
+      "peakRating": 2006
+     },
+     "Alisa": {
+      "games": 37,
+      "wrOverall": 40.5,
+      "wrRecent": 40.5,
+      "rating": 1524,
+      "peakRating": 1554
+     },
+     "Lidia": {
+      "games": 41,
+      "wrOverall": 53.7,
+      "wrRecent": 53.7,
+      "rating": 1582,
+      "peakRating": 1728
+     },
+     "Clive": {
+      "games": 990,
+      "wrOverall": 54.7,
+      "wrRecent": 61,
+      "rating": 2037,
+      "peakRating": 2100
+     },
+     "Azucena": {
+      "games": 504,
+      "wrOverall": 59.3,
+      "wrRecent": 57,
+      "rating": 2139,
+      "peakRating": 2140
+     },
+     "Xiaoyu": {
+      "games": 69,
+      "wrOverall": 49.3,
+      "wrRecent": 49.3,
+      "rating": 1482,
+      "peakRating": 1757
+     },
+     "Nina": {
+      "games": 22,
+      "wrOverall": 54.5,
+      "wrRecent": 54.5,
+      "rating": 1525,
+      "peakRating": 1636
+     },
+     "Fahkumram": {
+      "games": 225,
+      "wrOverall": 56.4,
+      "wrRecent": 62,
+      "rating": 2033,
+      "peakRating": 2058
+     },
+     "Anna": {
+      "games": 490,
+      "wrOverall": 50.6,
+      "wrRecent": 52,
+      "rating": 1927,
+      "peakRating": 2008
+     },
+     "Armor King": {
+      "games": 330,
+      "wrOverall": 49.7,
+      "wrRecent": 51,
+      "rating": 1766,
+      "peakRating": 1819
+     },
+     "Miary Zo": {
+      "games": 40,
+      "wrOverall": 45,
+      "wrRecent": 45,
+      "rating": 1527,
+      "peakRating": 1974
+     },
+     "Heihachi": {
+      "games": 35,
+      "wrOverall": 51.4,
+      "wrRecent": 51.4,
+      "rating": 1725,
+      "peakRating": 1878
+     },
+     "Kazuya": {
+      "games": 37,
+      "wrOverall": 45.9,
+      "wrRecent": 45.9,
+      "rating": 1619,
+      "peakRating": 1780
+     }
+    },
+    "stopAfter": 50,
+    "dropPp": 3.7,
+    "riseAfter": null,
+    "risePp": null,
     "adviceReliable": true
    }
   }
