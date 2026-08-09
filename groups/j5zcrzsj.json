@@ -1542,6 +1542,47 @@
     "risePp": 3.8,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "돌려차기",
+   "id": "5TqrfbiNBtd8",
+   "registeredAt": 1786245791,
+   "stats": {
+    "id": "5TqrfbiNBtd8",
+    "name": "돌려차기",
+    "fetchedAt": 1786239875,
+    "games": 10287,
+    "lastPlayed": 1786117014,
+    "lastVersion": 30101,
+    "wrOverall": 48.2,
+    "wrRecent200": 48,
+    "rating": 1794,
+    "peakRating": 1957,
+    "mainChar": "Jin",
+    "mainCharGames": 9105,
+    "chars": {
+     "Jin": {
+      "games": 9105,
+      "wrOverall": 48.3,
+      "wrRecent": 42
+     },
+     "Kazuya": {
+      "games": 968,
+      "wrOverall": 45.8,
+      "wrRecent": 42
+     },
+     "Steve": {
+      "games": 114,
+      "wrOverall": 64,
+      "wrRecent": 65
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": null,
+    "risePp": null,
+    "adviceReliable": true
+   }
   }
  ]
 }
