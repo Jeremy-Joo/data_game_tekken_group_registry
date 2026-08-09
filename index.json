@@ -5,6 +5,12 @@
    "name": "AZ톡",
    "createdAt": 1786245759,
    "hasPassword": true
+  },
+  {
+   "slug": "n5wjj7gb",
+   "name": "__admintest",
+   "createdAt": 1786259769,
+   "hasPassword": false
   }
  ]
 }
