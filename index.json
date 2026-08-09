@@ -5,6 +5,12 @@
    "name": "AZ톡",
    "createdAt": 1786245759,
    "hasPassword": true
+  },
+  {
+   "slug": "db4mnijs",
+   "name": "__bulktest",
+   "createdAt": 1786258995,
+   "hasPassword": false
   }
  ]
 }
