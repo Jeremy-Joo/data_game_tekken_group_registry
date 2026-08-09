@@ -49,6 +49,82 @@
     "risePp": 4,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "sabaches",
+   "id": "5GHjH4FJ6Mr4",
+   "registeredAt": 1786247053,
+   "stats": {
+    "id": "5GHjH4FJ6Mr4",
+    "name": "sabaches",
+    "fetchedAt": 1786247053,
+    "games": 5571,
+    "lastPlayed": 1786052532,
+    "lastVersion": 30101,
+    "wrOverall": 44.1,
+    "wrRecent200": 49.5,
+    "rating": 1447,
+    "peakRating": 1781,
+    "mainChar": "Asuka",
+    "mainCharGames": 2874,
+    "chars": {
+     "Jun": {
+      "games": 442,
+      "wrOverall": 40.5,
+      "wrRecent": 41
+     },
+     "Asuka": {
+      "games": 2874,
+      "wrOverall": 45.6,
+      "wrRecent": 42
+     },
+     "Reina": {
+      "games": 60,
+      "wrOverall": 21.7,
+      "wrRecent": 21.7
+     },
+     "Azucena": {
+      "games": 180,
+      "wrOverall": 33.3,
+      "wrRecent": 36
+     },
+     "Steve": {
+      "games": 73,
+      "wrOverall": 30.1,
+      "wrRecent": 30.1
+     },
+     "Xiaoyu": {
+      "games": 42,
+      "wrOverall": 35.7,
+      "wrRecent": 35.7
+     },
+     "Nina": {
+      "games": 1592,
+      "wrOverall": 46.3,
+      "wrRecent": 53
+     },
+     "Lars": {
+      "games": 47,
+      "wrOverall": 46.8,
+      "wrRecent": 46.8
+     },
+     "Leo": {
+      "games": 132,
+      "wrOverall": 50,
+      "wrRecent": 50
+     },
+     "Jack-8": {
+      "games": 46,
+      "wrOverall": 45.7,
+      "wrRecent": 45.7
+     }
+    },
+    "stopAfter": 20,
+    "dropPp": 3.9,
+    "riseAfter": 0,
+    "risePp": 5.2,
+    "adviceReliable": true
+   }
   }
  ]
 }
