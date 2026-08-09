@@ -4,227 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "초쿤에이스",
-   "id": "23EdQgJRRhjM",
-   "registeredAt": 1786245818,
-   "stats": {
-    "id": "23EdQgJRRhjM",
-    "name": "초쿤에이스",
-    "fetchedAt": 1786239952,
-    "games": 10789,
-    "lastPlayed": 1780688755,
-    "lastVersion": 30101,
-    "wrOverall": 58.2,
-    "wrRecent200": 63.5,
-    "rating": 1741,
-    "peakRating": 2052,
-    "mainChar": "Dragunov",
-    "mainCharGames": 958,
-    "chars": {
-     "Azucena": {
-      "games": 305,
-      "wrOverall": 59.3,
-      "wrRecent": 57
-     },
-     "Dragunov": {
-      "games": 958,
-      "wrOverall": 55.9,
-      "wrRecent": 65
-     },
-     "Steve": {
-      "games": 461,
-      "wrOverall": 53.8,
-      "wrRecent": 51
-     },
-     "Yoshimitsu": {
-      "games": 81,
-      "wrOverall": 61.7,
-      "wrRecent": 61.7
-     },
-     "Hwoarang": {
-      "games": 502,
-      "wrOverall": 53.2,
-      "wrRecent": 57
-     },
-     "Alisa": {
-      "games": 124,
-      "wrOverall": 62.9,
-      "wrRecent": 59
-     },
-     "Victor": {
-      "games": 683,
-      "wrOverall": 59,
-      "wrRecent": 68
-     },
-     "Reina": {
-      "games": 182,
-      "wrOverall": 51.1,
-      "wrRecent": 55
-     },
-     "Lars": {
-      "games": 183,
-      "wrOverall": 60.1,
-      "wrRecent": 54
-     },
-     "Bryan": {
-      "games": 624,
-      "wrOverall": 52.1,
-      "wrRecent": 53
-     },
-     "Claudio": {
-      "games": 344,
-      "wrOverall": 58.7,
-      "wrRecent": 66
-     },
-     "Lili": {
-      "games": 70,
-      "wrOverall": 65.7,
-      "wrRecent": 65.7
-     },
-     "Leo": {
-      "games": 237,
-      "wrOverall": 63.3,
-      "wrRecent": 68
-     },
-     "Jack-8": {
-      "games": 285,
-      "wrOverall": 60.4,
-      "wrRecent": 60
-     },
-     "Feng": {
-      "games": 276,
-      "wrOverall": 58.3,
-      "wrRecent": 59
-     },
-     "Nina": {
-      "games": 285,
-      "wrOverall": 57.9,
-      "wrRecent": 54
-     },
-     "Law": {
-      "games": 419,
-      "wrOverall": 59.4,
-      "wrRecent": 63
-     },
-     "Leroy": {
-      "games": 47,
-      "wrOverall": 59.6,
-      "wrRecent": 59.6
-     },
-     "Xiaoyu": {
-      "games": 58,
-      "wrOverall": 65.5,
-      "wrRecent": 65.5
-     },
-     "King": {
-      "games": 210,
-      "wrOverall": 61,
-      "wrRecent": 56
-     },
-     "Jin": {
-      "games": 521,
-      "wrOverall": 58,
-      "wrRecent": 64
-     },
-     "Jun": {
-      "games": 43,
-      "wrOverall": 51.2,
-      "wrRecent": 51.2
-     },
-     "Kuma": {
-      "games": 144,
-      "wrOverall": 63.2,
-      "wrRecent": 69
-     },
-     "Kazuya": {
-      "games": 317,
-      "wrOverall": 57.1,
-      "wrRecent": 58
-     },
-     "Asuka": {
-      "games": 235,
-      "wrOverall": 56.2,
-      "wrRecent": 58
-     },
-     "Lee": {
-      "games": 236,
-      "wrOverall": 58.9,
-      "wrRecent": 68
-     },
-     "Raven": {
-      "games": 98,
-      "wrOverall": 66.3,
-      "wrRecent": 66.3
-     },
-     "Devil Jin": {
-      "games": 373,
-      "wrOverall": 60.3,
-      "wrRecent": 61
-     },
-     "Paul": {
-      "games": 372,
-      "wrOverall": 54.8,
-      "wrRecent": 56
-     },
-     "Zafina": {
-      "games": 241,
-      "wrOverall": 67.2,
-      "wrRecent": 70
-     },
-     "Shaheen": {
-      "games": 53,
-      "wrOverall": 58.5,
-      "wrRecent": 58.5
-     },
-     "Panda": {
-      "games": 102,
-      "wrOverall": 57.8,
-      "wrRecent": 58
-     },
-     "Eddy": {
-      "games": 257,
-      "wrOverall": 67.7,
-      "wrRecent": 73
-     },
-     "Lidia": {
-      "games": 115,
-      "wrOverall": 55.7,
-      "wrRecent": 53
-     },
-     "Heihachi": {
-      "games": 389,
-      "wrOverall": 56.8,
-      "wrRecent": 57
-     },
-     "Clive": {
-      "games": 381,
-      "wrOverall": 61.4,
-      "wrRecent": 49
-     },
-     "Anna": {
-      "games": 102,
-      "wrOverall": 59.8,
-      "wrRecent": 60
-     },
-     "Fahkumram": {
-      "games": 196,
-      "wrOverall": 56.6,
-      "wrRecent": 65
-     },
-     "Armor King": {
-      "games": 280,
-      "wrOverall": 60.4,
-      "wrRecent": 59
-     }
-    },
-    "stopAfter": 40,
-    "dropPp": 3.8,
-    "riseAfter": null,
-    "risePp": null,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "chif",
    "id": "3MjraFbFJq2E",
    "registeredAt": 1786245820,
@@ -4728,6 +4507,305 @@
     "dropPp": 3.5,
     "riseAfter": 0,
     "risePp": 7.4,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "초쿤에이스",
+   "id": "23EdQgJRRhjM",
+   "registeredAt": 1786248329,
+   "stats": {
+    "id": "23EdQgJRRhjM",
+    "name": "초쿤에이스",
+    "fetchedAt": 1786248329,
+    "games": 10789,
+    "lastPlayed": 1780688755,
+    "lastVersion": 30101,
+    "wrOverall": 58.2,
+    "wrRecent200": 63.5,
+    "rating": 1787,
+    "peakRating": 1847,
+    "mainChar": "Dragunov",
+    "mainCharGames": 958,
+    "chars": {
+     "Azucena": {
+      "games": 305,
+      "wrOverall": 59.3,
+      "wrRecent": 57,
+      "rating": 1458,
+      "peakRating": 1833
+     },
+     "Dragunov": {
+      "games": 958,
+      "wrOverall": 55.9,
+      "wrRecent": 65,
+      "rating": 1787,
+      "peakRating": 1847
+     },
+     "Steve": {
+      "games": 461,
+      "wrOverall": 53.8,
+      "wrRecent": 51,
+      "rating": 1549,
+      "peakRating": 1768
+     },
+     "Yoshimitsu": {
+      "games": 81,
+      "wrOverall": 61.7,
+      "wrRecent": 61.7,
+      "rating": 1467,
+      "peakRating": 1548
+     },
+     "Hwoarang": {
+      "games": 502,
+      "wrOverall": 53.2,
+      "wrRecent": 57,
+      "rating": 1583,
+      "peakRating": 1712
+     },
+     "Alisa": {
+      "games": 124,
+      "wrOverall": 62.9,
+      "wrRecent": 59,
+      "rating": 1417,
+      "peakRating": 2052
+     },
+     "Victor": {
+      "games": 683,
+      "wrOverall": 59,
+      "wrRecent": 68,
+      "rating": 1816,
+      "peakRating": 1830
+     },
+     "Reina": {
+      "games": 182,
+      "wrOverall": 51.1,
+      "wrRecent": 55,
+      "rating": 1412,
+      "peakRating": 1651
+     },
+     "Lars": {
+      "games": 183,
+      "wrOverall": 60.1,
+      "wrRecent": 54,
+      "rating": 1449,
+      "peakRating": 1843
+     },
+     "Bryan": {
+      "games": 624,
+      "wrOverall": 52.1,
+      "wrRecent": 53,
+      "rating": 1543,
+      "peakRating": 1649
+     },
+     "Claudio": {
+      "games": 344,
+      "wrOverall": 58.7,
+      "wrRecent": 66,
+      "rating": 1617,
+      "peakRating": 1772
+     },
+     "Lili": {
+      "games": 70,
+      "wrOverall": 65.7,
+      "wrRecent": 65.7,
+      "rating": 1591,
+      "peakRating": 1664
+     },
+     "Leo": {
+      "games": 237,
+      "wrOverall": 63.3,
+      "wrRecent": 68,
+      "rating": 1675,
+      "peakRating": 1707
+     },
+     "Jack-8": {
+      "games": 285,
+      "wrOverall": 60.4,
+      "wrRecent": 60,
+      "rating": 1512,
+      "peakRating": 1734
+     },
+     "Feng": {
+      "games": 276,
+      "wrOverall": 58.3,
+      "wrRecent": 59,
+      "rating": 1573,
+      "peakRating": 1797
+     },
+     "Nina": {
+      "games": 285,
+      "wrOverall": 57.9,
+      "wrRecent": 54,
+      "rating": 1553,
+      "peakRating": 1627
+     },
+     "Law": {
+      "games": 419,
+      "wrOverall": 59.4,
+      "wrRecent": 63,
+      "rating": 1692,
+      "peakRating": 1834
+     },
+     "Leroy": {
+      "games": 47,
+      "wrOverall": 59.6,
+      "wrRecent": 59.6,
+      "rating": 1397,
+      "peakRating": 1485
+     },
+     "Xiaoyu": {
+      "games": 58,
+      "wrOverall": 65.5,
+      "wrRecent": 65.5,
+      "rating": 1486,
+      "peakRating": 1731
+     },
+     "King": {
+      "games": 210,
+      "wrOverall": 61,
+      "wrRecent": 56,
+      "rating": 1471,
+      "peakRating": 1752
+     },
+     "Jin": {
+      "games": 521,
+      "wrOverall": 58,
+      "wrRecent": 64,
+      "rating": 1751,
+      "peakRating": 1783
+     },
+     "Jun": {
+      "games": 43,
+      "wrOverall": 51.2,
+      "wrRecent": 51.2,
+      "rating": 1354,
+      "peakRating": 1651
+     },
+     "Kuma": {
+      "games": 144,
+      "wrOverall": 63.2,
+      "wrRecent": 69,
+      "rating": 1529,
+      "peakRating": 1670
+     },
+     "Kazuya": {
+      "games": 317,
+      "wrOverall": 57.1,
+      "wrRecent": 58,
+      "rating": 1499,
+      "peakRating": 1577
+     },
+     "Asuka": {
+      "games": 235,
+      "wrOverall": 56.2,
+      "wrRecent": 58,
+      "rating": 1531,
+      "peakRating": 1537
+     },
+     "Lee": {
+      "games": 236,
+      "wrOverall": 58.9,
+      "wrRecent": 68,
+      "rating": 1577,
+      "peakRating": 1698
+     },
+     "Raven": {
+      "games": 98,
+      "wrOverall": 66.3,
+      "wrRecent": 66.3,
+      "rating": 1563,
+      "peakRating": 1593
+     },
+     "Devil Jin": {
+      "games": 373,
+      "wrOverall": 60.3,
+      "wrRecent": 61,
+      "rating": 1664,
+      "peakRating": 1671
+     },
+     "Paul": {
+      "games": 372,
+      "wrOverall": 54.8,
+      "wrRecent": 56,
+      "rating": 1440,
+      "peakRating": 1626
+     },
+     "Zafina": {
+      "games": 241,
+      "wrOverall": 67.2,
+      "wrRecent": 70,
+      "rating": 1741,
+      "peakRating": 1870
+     },
+     "Shaheen": {
+      "games": 53,
+      "wrOverall": 58.5,
+      "wrRecent": 58.5,
+      "rating": 1403,
+      "peakRating": 1628
+     },
+     "Panda": {
+      "games": 102,
+      "wrOverall": 57.8,
+      "wrRecent": 58,
+      "rating": 1402,
+      "peakRating": 1624
+     },
+     "Eddy": {
+      "games": 257,
+      "wrOverall": 67.7,
+      "wrRecent": 73,
+      "rating": 1706,
+      "peakRating": 1805
+     },
+     "Lidia": {
+      "games": 115,
+      "wrOverall": 55.7,
+      "wrRecent": 53,
+      "rating": 1406,
+      "peakRating": 1646
+     },
+     "Heihachi": {
+      "games": 389,
+      "wrOverall": 56.8,
+      "wrRecent": 57,
+      "rating": 1514,
+      "peakRating": 1766
+     },
+     "Clive": {
+      "games": 381,
+      "wrOverall": 61.4,
+      "wrRecent": 49,
+      "rating": 1497,
+      "peakRating": 1768
+     },
+     "Anna": {
+      "games": 102,
+      "wrOverall": 59.8,
+      "wrRecent": 60,
+      "rating": 1685,
+      "peakRating": 1730
+     },
+     "Fahkumram": {
+      "games": 196,
+      "wrOverall": 56.6,
+      "wrRecent": 65,
+      "rating": 1634,
+      "peakRating": 1770
+     },
+     "Armor King": {
+      "games": 280,
+      "wrOverall": 60.4,
+      "wrRecent": 59,
+      "rating": 1689,
+      "peakRating": 1763
+     }
+    },
+    "stopAfter": 40,
+    "dropPp": 3.8,
+    "riseAfter": null,
+    "risePp": null,
     "adviceReliable": true
    }
   }
