@@ -4,72 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "Ambitions",
-   "id": "5aqf32djaM6h",
-   "registeredAt": 1786245851,
-   "stats": {
-    "id": "5aqf32djaM6h",
-    "name": "Ambition",
-    "fetchedAt": 1786240009,
-    "games": 616,
-    "lastPlayed": 1786198094,
-    "lastVersion": 30101,
-    "wrOverall": 68.5,
-    "wrRecent200": 75.5,
-    "rating": 1400,
-    "peakRating": 1953,
-    "mainChar": "Kazuya",
-    "mainCharGames": 229,
-    "chars": {
-     "Kazuya": {
-      "games": 229,
-      "wrOverall": 56.8,
-      "wrRecent": 60
-     },
-     "Jin": {
-      "games": 35,
-      "wrOverall": 77.1,
-      "wrRecent": 77.1
-     },
-     "Heihachi": {
-      "games": 66,
-      "wrOverall": 72.7,
-      "wrRecent": 72.7
-     },
-     "Shaheen": {
-      "games": 21,
-      "wrOverall": 81,
-      "wrRecent": 81
-     },
-     "Reina": {
-      "games": 27,
-      "wrOverall": 85.2,
-      "wrRecent": 85.2
-     },
-     "Dragunov": {
-      "games": 85,
-      "wrOverall": 75.3,
-      "wrRecent": 75.3
-     },
-     "Fahkumram": {
-      "games": 57,
-      "wrOverall": 77.2,
-      "wrRecent": 77.2
-     },
-     "King": {
-      "games": 35,
-      "wrOverall": 65.7,
-      "wrRecent": 65.7
-     }
-    },
-    "stopAfter": 5,
-    "dropPp": 9.2,
-    "riseAfter": 10,
-    "risePp": 8.6,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "금지옥엽",
    "id": "4RgdJayAbTMh",
    "registeredAt": 1786245853,
@@ -4956,6 +4890,88 @@
     "dropPp": 3.6,
     "riseAfter": null,
     "risePp": null,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "Ambitions",
+   "id": "5aqf32djaM6h",
+   "registeredAt": 1786248422,
+   "stats": {
+    "id": "5aqf32djaM6h",
+    "name": "Ambition",
+    "fetchedAt": 1786248422,
+    "games": 616,
+    "lastPlayed": 1786198094,
+    "lastVersion": 30101,
+    "wrOverall": 68.5,
+    "wrRecent200": 75.5,
+    "rating": 1415,
+    "peakRating": 1698,
+    "mainChar": "Kazuya",
+    "mainCharGames": 229,
+    "chars": {
+     "Kazuya": {
+      "games": 229,
+      "wrOverall": 56.8,
+      "wrRecent": 60,
+      "rating": 1415,
+      "peakRating": 1698
+     },
+     "Jin": {
+      "games": 35,
+      "wrOverall": 77.1,
+      "wrRecent": 77.1,
+      "rating": 1598,
+      "peakRating": 1686
+     },
+     "Heihachi": {
+      "games": 66,
+      "wrOverall": 72.7,
+      "wrRecent": 72.7,
+      "rating": 1441,
+      "peakRating": 1820
+     },
+     "Shaheen": {
+      "games": 21,
+      "wrOverall": 81,
+      "wrRecent": 81,
+      "rating": 1597,
+      "peakRating": 1733
+     },
+     "Reina": {
+      "games": 27,
+      "wrOverall": 85.2,
+      "wrRecent": 85.2,
+      "rating": 1731,
+      "peakRating": 1953
+     },
+     "Dragunov": {
+      "games": 85,
+      "wrOverall": 75.3,
+      "wrRecent": 75.3,
+      "rating": 1400,
+      "peakRating": 1738
+     },
+     "Fahkumram": {
+      "games": 57,
+      "wrOverall": 77.2,
+      "wrRecent": 77.2,
+      "rating": 1540,
+      "peakRating": 1720
+     },
+     "King": {
+      "games": 35,
+      "wrOverall": 65.7,
+      "wrRecent": 65.7,
+      "rating": 1433,
+      "peakRating": 1534
+     }
+    },
+    "stopAfter": 5,
+    "dropPp": 9.2,
+    "riseAfter": 10,
+    "risePp": 8.6,
     "adviceReliable": true
    }
   }
