@@ -4017,6 +4017,47 @@
     "risePp": 7.8,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "차무식입니다",
+   "id": "28Re74tamiYT",
+   "registeredAt": 1786245863,
+   "stats": {
+    "id": "28Re74tamiYT",
+    "name": "차무식입니다",
+    "fetchedAt": 1786240030,
+    "games": 2665,
+    "lastPlayed": 1762282624,
+    "lastVersion": 20602,
+    "wrOverall": 51.9,
+    "wrRecent200": 55.5,
+    "rating": 1466,
+    "peakRating": 1707,
+    "mainChar": "Law",
+    "mainCharGames": 1657,
+    "chars": {
+     "Law": {
+      "games": 1657,
+      "wrOverall": 51.4,
+      "wrRecent": 57
+     },
+     "Kazuya": {
+      "games": 188,
+      "wrOverall": 50.5,
+      "wrRecent": 47
+     },
+     "Victor": {
+      "games": 820,
+      "wrOverall": 53.2,
+      "wrRecent": 52
+     }
+    },
+    "stopAfter": 15,
+    "dropPp": 5.4,
+    "riseAfter": 5,
+    "risePp": 5,
+    "adviceReliable": true
+   }
   }
  ]
 }
