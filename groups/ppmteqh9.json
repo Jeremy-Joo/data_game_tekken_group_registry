@@ -1086,6 +1086,67 @@
     "risePp": 3.1,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "빡훈TV",
+   "id": "5nJNGYfdefBB",
+   "registeredAt": 1786243646,
+   "stats": {
+    "id": "5nJNGYfdefBB",
+    "name": "도란도란|빡훈tv",
+    "fetchedAt": 1786239841,
+    "games": 10941,
+    "lastPlayed": 1786023083,
+    "lastVersion": 30101,
+    "wrOverall": 51.8,
+    "wrRecent200": 54.5,
+    "rating": 1936,
+    "peakRating": 2194,
+    "mainChar": "Kazuya",
+    "mainCharGames": 7605,
+    "chars": {
+     "Kazuya": {
+      "games": 7605,
+      "wrOverall": 51.1,
+      "wrRecent": 50
+     },
+     "Devil Jin": {
+      "games": 2066,
+      "wrOverall": 52,
+      "wrRecent": 64
+     },
+     "Jin": {
+      "games": 521,
+      "wrOverall": 56,
+      "wrRecent": 56
+     },
+     "Paul": {
+      "games": 81,
+      "wrOverall": 58,
+      "wrRecent": 58
+     },
+     "Dragunov": {
+      "games": 21,
+      "wrOverall": 52.4,
+      "wrRecent": 52.4
+     },
+     "Heihachi": {
+      "games": 604,
+      "wrOverall": 57.3,
+      "wrRecent": 47
+     },
+     "Shaheen": {
+      "games": 41,
+      "wrOverall": 34.1,
+      "wrRecent": 34.1
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 55,
+    "risePp": 4.4,
+    "adviceReliable": true
+   }
   }
  ]
 }
