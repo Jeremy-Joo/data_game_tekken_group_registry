@@ -3727,6 +3727,42 @@
     "risePp": 4.4,
     "adviceReliable": false
    }
+  },
+  {
+   "nick": "jang",
+   "id": "5292LbRNrfBy",
+   "registeredAt": 1786245854,
+   "stats": {
+    "id": "5292LbRNrfBy",
+    "name": "Jang Mishima",
+    "fetchedAt": 1786240014,
+    "games": 1347,
+    "lastPlayed": 1786120405,
+    "lastVersion": 30101,
+    "wrOverall": 39.3,
+    "wrRecent200": 44.5,
+    "rating": 1316,
+    "peakRating": 1876,
+    "mainChar": "Paul",
+    "mainCharGames": 971,
+    "chars": {
+     "Paul": {
+      "games": 971,
+      "wrOverall": 38.1,
+      "wrRecent": 42
+     },
+     "Heihachi": {
+      "games": 358,
+      "wrOverall": 39.7,
+      "wrRecent": 46
+     }
+    },
+    "stopAfter": 0,
+    "dropPp": 4.5,
+    "riseAfter": 25,
+    "risePp": 7.1,
+    "adviceReliable": true
+   }
   }
  ]
 }
