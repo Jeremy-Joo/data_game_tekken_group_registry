@@ -4,112 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "가든(막눌러아저씨)",
-   "id": "4hhQH3J9DMnf",
-   "registeredAt": 1786245803,
-   "stats": {
-    "id": "4hhQH3J9DMnf",
-    "name": "Garden(막눌러 아저씨)",
-    "fetchedAt": 1786239909,
-    "games": 16319,
-    "lastPlayed": 1786157467,
-    "lastVersion": 30101,
-    "wrOverall": 52.3,
-    "wrRecent200": 55.5,
-    "rating": 1895,
-    "peakRating": 2046,
-    "mainChar": "King",
-    "mainCharGames": 4015,
-    "chars": {
-     "Dragunov": {
-      "games": 1209,
-      "wrOverall": 50.6,
-      "wrRecent": 48
-     },
-     "Claudio": {
-      "games": 1762,
-      "wrOverall": 54.1,
-      "wrRecent": 62
-     },
-     "Paul": {
-      "games": 2640,
-      "wrOverall": 52.1,
-      "wrRecent": 50
-     },
-     "Feng": {
-      "games": 2158,
-      "wrOverall": 52.4,
-      "wrRecent": 60
-     },
-     "King": {
-      "games": 4015,
-      "wrOverall": 52.1,
-      "wrRecent": 58
-     },
-     "Steve": {
-      "games": 1609,
-      "wrOverall": 53,
-      "wrRecent": 60
-     },
-     "Devil Jin": {
-      "games": 24,
-      "wrOverall": 54.2,
-      "wrRecent": 54.2
-     },
-     "Law": {
-      "games": 322,
-      "wrOverall": 55,
-      "wrRecent": 49
-     },
-     "Bryan": {
-      "games": 1114,
-      "wrOverall": 50.9,
-      "wrRecent": 45
-     },
-     "Shaheen": {
-      "games": 47,
-      "wrOverall": 55.3,
-      "wrRecent": 55.3
-     },
-     "Jin": {
-      "games": 21,
-      "wrOverall": 42.9,
-      "wrRecent": 42.9
-     },
-     "Lidia": {
-      "games": 35,
-      "wrOverall": 57.1,
-      "wrRecent": 57.1
-     },
-     "Kazuya": {
-      "games": 117,
-      "wrOverall": 47,
-      "wrRecent": 46
-     },
-     "Clive": {
-      "games": 891,
-      "wrOverall": 52.5,
-      "wrRecent": 55
-     },
-     "Fahkumram": {
-      "games": 291,
-      "wrOverall": 55.7,
-      "wrRecent": 57
-     },
-     "Raven": {
-      "games": 47,
-      "wrOverall": 42.6,
-      "wrRecent": 42.6
-     }
-    },
-    "stopAfter": 20,
-    "dropPp": 3.2,
-    "riseAfter": 30,
-    "risePp": 5.3,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "수영장파티킹",
    "id": "5nnmJgGRBFyf",
    "registeredAt": 1786245805,
@@ -4586,6 +4480,144 @@
     "dropPp": null,
     "riseAfter": 45,
     "risePp": 5.8,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "가든(막눌러아저씨)",
+   "id": "4hhQH3J9DMnf",
+   "registeredAt": 1786248270,
+   "stats": {
+    "id": "4hhQH3J9DMnf",
+    "name": "Garden(막눌러 아저씨)",
+    "fetchedAt": 1786248270,
+    "games": 16319,
+    "lastPlayed": 1786157467,
+    "lastVersion": 30101,
+    "wrOverall": 52.3,
+    "wrRecent200": 55.5,
+    "rating": 1895,
+    "peakRating": 1997,
+    "mainChar": "King",
+    "mainCharGames": 4015,
+    "chars": {
+     "Dragunov": {
+      "games": 1209,
+      "wrOverall": 50.6,
+      "wrRecent": 48,
+      "rating": 1703,
+      "peakRating": 1835
+     },
+     "Claudio": {
+      "games": 1762,
+      "wrOverall": 54.1,
+      "wrRecent": 62,
+      "rating": 1761,
+      "peakRating": 2046
+     },
+     "Paul": {
+      "games": 2640,
+      "wrOverall": 52.1,
+      "wrRecent": 50,
+      "rating": 1666,
+      "peakRating": 1951
+     },
+     "Feng": {
+      "games": 2158,
+      "wrOverall": 52.4,
+      "wrRecent": 60,
+      "rating": 1738,
+      "peakRating": 1967
+     },
+     "King": {
+      "games": 4015,
+      "wrOverall": 52.1,
+      "wrRecent": 58,
+      "rating": 1895,
+      "peakRating": 1997
+     },
+     "Steve": {
+      "games": 1609,
+      "wrOverall": 53,
+      "wrRecent": 60,
+      "rating": 1783,
+      "peakRating": 1931
+     },
+     "Devil Jin": {
+      "games": 24,
+      "wrOverall": 54.2,
+      "wrRecent": 54.2,
+      "rating": 1519,
+      "peakRating": 1657
+     },
+     "Law": {
+      "games": 322,
+      "wrOverall": 55,
+      "wrRecent": 49,
+      "rating": 1678,
+      "peakRating": 1789
+     },
+     "Bryan": {
+      "games": 1114,
+      "wrOverall": 50.9,
+      "wrRecent": 45,
+      "rating": 1652,
+      "peakRating": 1871
+     },
+     "Shaheen": {
+      "games": 47,
+      "wrOverall": 55.3,
+      "wrRecent": 55.3,
+      "rating": 1531,
+      "peakRating": 1755
+     },
+     "Jin": {
+      "games": 21,
+      "wrOverall": 42.9,
+      "wrRecent": 42.9,
+      "rating": 1366,
+      "peakRating": 1420
+     },
+     "Lidia": {
+      "games": 35,
+      "wrOverall": 57.1,
+      "wrRecent": 57.1,
+      "rating": 1506,
+      "peakRating": 1611
+     },
+     "Kazuya": {
+      "games": 117,
+      "wrOverall": 47,
+      "wrRecent": 46,
+      "rating": 1487,
+      "peakRating": 1659
+     },
+     "Clive": {
+      "games": 891,
+      "wrOverall": 52.5,
+      "wrRecent": 55,
+      "rating": 1698,
+      "peakRating": 1844
+     },
+     "Fahkumram": {
+      "games": 291,
+      "wrOverall": 55.7,
+      "wrRecent": 57,
+      "rating": 1751,
+      "peakRating": 1838
+     },
+     "Raven": {
+      "games": 47,
+      "wrOverall": 42.6,
+      "wrRecent": 42.6,
+      "rating": 1370,
+      "peakRating": 1545
+     }
+    },
+    "stopAfter": 20,
+    "dropPp": 3.2,
+    "riseAfter": 30,
+    "risePp": 5.3,
     "adviceReliable": true
    }
   }
