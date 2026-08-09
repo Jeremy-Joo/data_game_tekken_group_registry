@@ -3574,6 +3574,62 @@
     "risePp": null,
     "adviceReliable": false
    }
+  },
+  {
+   "nick": "SAJAHOO",
+   "id": "4BDbJNetHNME",
+   "registeredAt": 1786245849,
+   "stats": {
+    "id": "4BDbJNetHNME",
+    "name": "SaJaHoo",
+    "fetchedAt": 1786240006,
+    "games": 505,
+    "lastPlayed": 1786235474,
+    "lastVersion": 30101,
+    "wrOverall": 81,
+    "wrRecent200": 80.5,
+    "rating": 1579,
+    "peakRating": 1960,
+    "mainChar": "Paul",
+    "mainCharGames": 140,
+    "chars": {
+     "Kazuya": {
+      "games": 78,
+      "wrOverall": 79.5,
+      "wrRecent": 79.5
+     },
+     "Paul": {
+      "games": 140,
+      "wrOverall": 82.9,
+      "wrRecent": 82
+     },
+     "Law": {
+      "games": 63,
+      "wrOverall": 87.3,
+      "wrRecent": 87.3
+     },
+     "Lee": {
+      "games": 122,
+      "wrOverall": 75.4,
+      "wrRecent": 77
+     },
+     "Heihachi": {
+      "games": 47,
+      "wrOverall": 78.7,
+      "wrRecent": 78.7
+     },
+     "Armor King": {
+      "games": 55,
+      "wrOverall": 85.5,
+      "wrRecent": 85.5
+     }
+    },
+    "stopAfter": 15,
+    "dropPp": 3.6,
+    "riseAfter": null,
+    "risePp": null,
+    "adviceReliable": true
+   }
   }
  ]
 }
