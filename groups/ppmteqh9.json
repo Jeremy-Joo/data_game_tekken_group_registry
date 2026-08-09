@@ -3298,6 +3298,52 @@
     "risePp": 4.5,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "메론먹방",
+   "id": "65jQnrn68nBT",
+   "registeredAt": 1786243704,
+   "stats": {
+    "id": "65jQnrn68nBT",
+    "name": "메론먹방",
+    "fetchedAt": 1786239988,
+    "games": 1706,
+    "lastPlayed": 1786177507,
+    "lastVersion": 30101,
+    "wrOverall": 52.3,
+    "wrRecent200": 49,
+    "rating": 1471,
+    "peakRating": 1794,
+    "mainChar": "Victor",
+    "mainCharGames": 858,
+    "chars": {
+     "Victor": {
+      "games": 858,
+      "wrOverall": 53.5,
+      "wrRecent": 58
+     },
+     "Leo": {
+      "games": 88,
+      "wrOverall": 40.9,
+      "wrRecent": 40.9
+     },
+     "Bryan": {
+      "games": 40,
+      "wrOverall": 60,
+      "wrRecent": 60
+     },
+     "Fahkumram": {
+      "games": 695,
+      "wrOverall": 51.2,
+      "wrRecent": 44
+     }
+    },
+    "stopAfter": 5,
+    "dropPp": 3.3,
+    "riseAfter": 20,
+    "risePp": 6.1,
+    "adviceReliable": true
+   }
   }
  ]
 }
