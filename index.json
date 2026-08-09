@@ -4,6 +4,12 @@
    "slug": "j5zcrzsj",
    "name": "AZ톡",
    "createdAt": 1786245759
+  },
+  {
+   "slug": "b42kngu4",
+   "name": "__perm_test_group",
+   "createdAt": 1786252831,
+   "hasPassword": false
   }
  ]
 }
