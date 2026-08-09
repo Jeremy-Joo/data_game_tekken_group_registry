@@ -3860,6 +3860,77 @@
     "risePp": 3.4,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "샤넬체리",
+   "id": "3hjLE5fNJQGy",
+   "registeredAt": 1786245860,
+   "stats": {
+    "id": "3hjLE5fNJQGy",
+    "name": "샤넬체리무릎",
+    "fetchedAt": 1786240022,
+    "games": 2032,
+    "lastPlayed": 1785374117,
+    "lastVersion": 30101,
+    "wrOverall": 37.6,
+    "wrRecent200": 36.5,
+    "rating": 1180,
+    "peakRating": 1956,
+    "mainChar": "Asuka",
+    "mainCharGames": 1518,
+    "chars": {
+     "Asuka": {
+      "games": 1518,
+      "wrOverall": 41.1,
+      "wrRecent": 41
+     },
+     "Lidia": {
+      "games": 25,
+      "wrOverall": 16,
+      "wrRecent": 16
+     },
+     "Reina": {
+      "games": 60,
+      "wrOverall": 21.7,
+      "wrRecent": 21.7
+     },
+     "Jun": {
+      "games": 72,
+      "wrOverall": 26.4,
+      "wrRecent": 26.4
+     },
+     "Alisa": {
+      "games": 29,
+      "wrOverall": 31,
+      "wrRecent": 31
+     },
+     "Jin": {
+      "games": 29,
+      "wrOverall": 31,
+      "wrRecent": 31
+     },
+     "Victor": {
+      "games": 83,
+      "wrOverall": 33.7,
+      "wrRecent": 33.7
+     },
+     "Jack-8": {
+      "games": 24,
+      "wrOverall": 25,
+      "wrRecent": 25
+     },
+     "Clive": {
+      "games": 31,
+      "wrOverall": 22.6,
+      "wrRecent": 22.6
+     }
+    },
+    "stopAfter": 5,
+    "dropPp": 3.9,
+    "riseAfter": 10,
+    "risePp": 7,
+    "adviceReliable": true
+   }
   }
  ]
 }
