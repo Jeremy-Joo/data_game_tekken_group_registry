@@ -4,37 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "Rainyzoo",
-   "id": "3NJAAGe2fn68",
-   "registeredAt": 1786245836,
-   "stats": {
-    "id": "3NJAAGe2fn68",
-    "name": "TG I Rainyzoo",
-    "fetchedAt": 1786239986,
-    "games": 803,
-    "lastPlayed": 1783863923,
-    "lastVersion": 30101,
-    "wrOverall": 56.7,
-    "wrRecent200": 51,
-    "rating": 1609,
-    "peakRating": 1821,
-    "mainChar": "Leo",
-    "mainCharGames": 803,
-    "chars": {
-     "Leo": {
-      "games": 803,
-      "wrOverall": 56.7,
-      "wrRecent": 53
-     }
-    },
-    "stopAfter": 15,
-    "dropPp": 4.2,
-    "riseAfter": 10,
-    "risePp": 4.5,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "메론먹방",
    "id": "65jQnrn68nBT",
    "registeredAt": 1786245837,
@@ -4894,6 +4863,39 @@
     "dropPp": 4.1,
     "riseAfter": 30,
     "risePp": 3,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "Rainyzoo",
+   "id": "3NJAAGe2fn68",
+   "registeredAt": 1786248383,
+   "stats": {
+    "id": "3NJAAGe2fn68",
+    "name": "TG I Rainyzoo",
+    "fetchedAt": 1786248383,
+    "games": 803,
+    "lastPlayed": 1783863923,
+    "lastVersion": 30101,
+    "wrOverall": 56.7,
+    "wrRecent200": 51,
+    "rating": 1609,
+    "peakRating": 1821,
+    "mainChar": "Leo",
+    "mainCharGames": 803,
+    "chars": {
+     "Leo": {
+      "games": 803,
+      "wrOverall": 56.7,
+      "wrRecent": 53,
+      "rating": 1609,
+      "peakRating": 1821
+     }
+    },
+    "stopAfter": 15,
+    "dropPp": 4.2,
+    "riseAfter": 10,
+    "risePp": 4.5,
     "adviceReliable": true
    }
   }
