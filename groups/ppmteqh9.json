@@ -1481,6 +1481,67 @@
     "risePp": null,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "면기",
+   "id": "2QiGEFnN6QF8",
+   "registeredAt": 1786243654,
+   "stats": {
+    "id": "2QiGEFnN6QF8",
+    "name": "면  기",
+    "fetchedAt": 1786239870,
+    "games": 24429,
+    "lastPlayed": 1786054460,
+    "lastVersion": 30101,
+    "wrOverall": 48.5,
+    "wrRecent200": 51,
+    "rating": 1805,
+    "peakRating": 2025,
+    "mainChar": "Heihachi",
+    "mainCharGames": 10147,
+    "chars": {
+     "Kazuya": {
+      "games": 9912,
+      "wrOverall": 48.3,
+      "wrRecent": 62
+     },
+     "Devil Jin": {
+      "games": 2359,
+      "wrOverall": 49.7,
+      "wrRecent": 56
+     },
+     "King": {
+      "games": 594,
+      "wrOverall": 52.2,
+      "wrRecent": 59
+     },
+     "Jin": {
+      "games": 127,
+      "wrOverall": 48.8,
+      "wrRecent": 47
+     },
+     "Heihachi": {
+      "games": 10147,
+      "wrOverall": 48.4,
+      "wrRecent": 47
+     },
+     "Steve": {
+      "games": 20,
+      "wrOverall": 20,
+      "wrRecent": 20
+     },
+     "Armor King": {
+      "games": 1226,
+      "wrOverall": 48.7,
+      "wrRecent": 51
+     }
+    },
+    "stopAfter": 0,
+    "dropPp": 3.6,
+    "riseAfter": 45,
+    "risePp": 3.8,
+    "adviceReliable": true
+   }
   }
  ]
 }
