@@ -3231,6 +3231,42 @@
     "risePp": 4.2,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "AzuRei",
+   "id": "4nhQ68hfHmMd",
+   "registeredAt": 1786243701,
+   "stats": {
+    "id": "4nhQ68hfHmMd",
+    "name": "AzuRei",
+    "fetchedAt": 1786239983,
+    "games": 3922,
+    "lastPlayed": 1785778375,
+    "lastVersion": 30101,
+    "wrOverall": 45.3,
+    "wrRecent200": 44,
+    "rating": 1422,
+    "peakRating": 1826,
+    "mainChar": "Reina",
+    "mainCharGames": 2588,
+    "chars": {
+     "Hwoarang": {
+      "games": 1315,
+      "wrOverall": 51.4,
+      "wrRecent": 42
+     },
+     "Reina": {
+      "games": 2588,
+      "wrOverall": 42.4,
+      "wrRecent": 47
+     }
+    },
+    "stopAfter": 15,
+    "dropPp": 4.1,
+    "riseAfter": 30,
+    "risePp": 3,
+    "adviceReliable": true
+   }
   }
  ]
 }
