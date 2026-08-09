@@ -4,62 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "에드가",
-   "id": "2AY7A2m68f3E",
-   "registeredAt": 1786245799,
-   "stats": {
-    "id": "2AY7A2m68f3E",
-    "name": "Chzzk(에드가)",
-    "fetchedAt": 1786239897,
-    "games": 21309,
-    "lastPlayed": 1786043424,
-    "lastVersion": 30101,
-    "wrOverall": 47,
-    "wrRecent200": 46,
-    "rating": 1784,
-    "peakRating": 2007,
-    "mainChar": "Paul",
-    "mainCharGames": 21015,
-    "chars": {
-     "Paul": {
-      "games": 21015,
-      "wrOverall": 47.3,
-      "wrRecent": 44
-     },
-     "Azucena": {
-      "games": 22,
-      "wrOverall": 27.3,
-      "wrRecent": 27.3
-     },
-     "Law": {
-      "games": 90,
-      "wrOverall": 11.1,
-      "wrRecent": 11.1
-     },
-     "Asuka": {
-      "games": 64,
-      "wrOverall": 32.8,
-      "wrRecent": 32.8
-     },
-     "Jun": {
-      "games": 21,
-      "wrOverall": 28.6,
-      "wrRecent": 28.6
-     },
-     "Miary Zo": {
-      "games": 26,
-      "wrOverall": 26.9,
-      "wrRecent": 26.9
-     }
-    },
-    "stopAfter": 0,
-    "dropPp": 3.7,
-    "riseAfter": null,
-    "risePp": null,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "PCP |ALLMute",
    "id": "4LTqdgmB6Eyr",
    "registeredAt": 1786245801,
@@ -4510,6 +4454,74 @@
     "dropPp": null,
     "riseAfter": 40,
     "risePp": 7,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "에드가",
+   "id": "2AY7A2m68f3E",
+   "registeredAt": 1786248254,
+   "stats": {
+    "id": "2AY7A2m68f3E",
+    "name": "Chzzk(에드가)",
+    "fetchedAt": 1786248254,
+    "games": 21309,
+    "lastPlayed": 1786043424,
+    "lastVersion": 30101,
+    "wrOverall": 47,
+    "wrRecent200": 46,
+    "rating": 1784,
+    "peakRating": 2007,
+    "mainChar": "Paul",
+    "mainCharGames": 21015,
+    "chars": {
+     "Paul": {
+      "games": 21015,
+      "wrOverall": 47.3,
+      "wrRecent": 44,
+      "rating": 1784,
+      "peakRating": 2007
+     },
+     "Azucena": {
+      "games": 22,
+      "wrOverall": 27.3,
+      "wrRecent": 27.3,
+      "rating": 1132,
+      "peakRating": 1194
+     },
+     "Law": {
+      "games": 90,
+      "wrOverall": 11.1,
+      "wrRecent": 11.1,
+      "rating": 1141,
+      "peakRating": 1217
+     },
+     "Asuka": {
+      "games": 64,
+      "wrOverall": 32.8,
+      "wrRecent": 32.8,
+      "rating": 1178,
+      "peakRating": 1555
+     },
+     "Jun": {
+      "games": 21,
+      "wrOverall": 28.6,
+      "wrRecent": 28.6,
+      "rating": 1181,
+      "peakRating": 1209
+     },
+     "Miary Zo": {
+      "games": 26,
+      "wrOverall": 26.9,
+      "wrRecent": 26.9,
+      "rating": 1020,
+      "peakRating": 1370
+     }
+    },
+    "stopAfter": 0,
+    "dropPp": 3.7,
+    "riseAfter": null,
+    "risePp": null,
     "adviceReliable": true
    }
   }
