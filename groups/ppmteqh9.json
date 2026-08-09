@@ -1254,6 +1254,172 @@
     "risePp": null,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "Enjoy_game",
+   "id": "4NdEm23b574a",
+   "registeredAt": 1786243651,
+   "stats": {
+    "id": "4NdEm23b574a",
+    "name": "Enjoy-Game99",
+    "fetchedAt": 1786239856,
+    "games": 17005,
+    "lastPlayed": 1785522385,
+    "lastVersion": 30101,
+    "wrOverall": 50.9,
+    "wrRecent200": 57,
+    "rating": 1881,
+    "peakRating": 2084,
+    "mainChar": "Nina",
+    "mainCharGames": 5020,
+    "chars": {
+     "Paul": {
+      "games": 176,
+      "wrOverall": 61.4,
+      "wrRecent": 59
+     },
+     "Xiaoyu": {
+      "games": 336,
+      "wrOverall": 47,
+      "wrRecent": 43
+     },
+     "Kuma": {
+      "games": 195,
+      "wrOverall": 60.5,
+      "wrRecent": 71
+     },
+     "Nina": {
+      "games": 5020,
+      "wrOverall": 51,
+      "wrRecent": 57
+     },
+     "Jin": {
+      "games": 484,
+      "wrOverall": 55,
+      "wrRecent": 55
+     },
+     "King": {
+      "games": 134,
+      "wrOverall": 59.7,
+      "wrRecent": 60
+     },
+     "Law": {
+      "games": 881,
+      "wrOverall": 49.4,
+      "wrRecent": 48
+     },
+     "Eddy": {
+      "games": 263,
+      "wrOverall": 51,
+      "wrRecent": 55
+     },
+     "Heihachi": {
+      "games": 809,
+      "wrOverall": 51.8,
+      "wrRecent": 57
+     },
+     "Lidia": {
+      "games": 540,
+      "wrOverall": 48.9,
+      "wrRecent": 55
+     },
+     "Dragunov": {
+      "games": 472,
+      "wrOverall": 48.7,
+      "wrRecent": 56
+     },
+     "Shaheen": {
+      "games": 300,
+      "wrOverall": 55,
+      "wrRecent": 53
+     },
+     "Lars": {
+      "games": 305,
+      "wrOverall": 52.5,
+      "wrRecent": 59
+     },
+     "Leo": {
+      "games": 188,
+      "wrOverall": 57.4,
+      "wrRecent": 63
+     },
+     "Kazuya": {
+      "games": 318,
+      "wrOverall": 49.1,
+      "wrRecent": 56
+     },
+     "Reina": {
+      "games": 125,
+      "wrOverall": 44.8,
+      "wrRecent": 45
+     },
+     "Victor": {
+      "games": 166,
+      "wrOverall": 47.6,
+      "wrRecent": 44
+     },
+     "Jun": {
+      "games": 73,
+      "wrOverall": 52.1,
+      "wrRecent": 52.1
+     },
+     "Fahkumram": {
+      "games": 352,
+      "wrOverall": 52.6,
+      "wrRecent": 56
+     },
+     "Anna": {
+      "games": 490,
+      "wrOverall": 53.1,
+      "wrRecent": 55
+     },
+     "Bryan": {
+      "games": 435,
+      "wrOverall": 50.6,
+      "wrRecent": 53
+     },
+     "Azucena": {
+      "games": 236,
+      "wrOverall": 52.5,
+      "wrRecent": 58
+     },
+     "Hwoarang": {
+      "games": 573,
+      "wrOverall": 50.6,
+      "wrRecent": 55
+     },
+     "Miary Zo": {
+      "games": 180,
+      "wrOverall": 53.3,
+      "wrRecent": 55
+     },
+     "Armor King": {
+      "games": 647,
+      "wrOverall": 50.2,
+      "wrRecent": 56
+     },
+     "Asuka": {
+      "games": 635,
+      "wrOverall": 50.6,
+      "wrRecent": 42
+     },
+     "Raven": {
+      "games": 1367,
+      "wrOverall": 47.5,
+      "wrRecent": 65
+     },
+     "Jack-8": {
+      "games": 1305,
+      "wrOverall": 50.1,
+      "wrRecent": 55
+     }
+    },
+    "stopAfter": 45,
+    "dropPp": 4.3,
+    "riseAfter": 30,
+    "risePp": 3,
+    "adviceReliable": true
+   }
   }
  ]
 }
