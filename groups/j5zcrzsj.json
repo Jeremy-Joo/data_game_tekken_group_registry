@@ -4,62 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "chif",
-   "id": "3MjraFbFJq2E",
-   "registeredAt": 1786245820,
-   "stats": {
-    "id": "3MjraFbFJq2E",
-    "name": "chif",
-    "fetchedAt": 1786239956,
-    "games": 7474,
-    "lastPlayed": 1786086864,
-    "lastVersion": 30101,
-    "wrOverall": 47.7,
-    "wrRecent200": 54,
-    "rating": 1427,
-    "peakRating": 1789,
-    "mainChar": "Eddy",
-    "mainCharGames": 5019,
-    "chars": {
-     "Azucena": {
-      "games": 817,
-      "wrOverall": 43.3,
-      "wrRecent": 49
-     },
-     "Zafina": {
-      "games": 176,
-      "wrOverall": 50.6,
-      "wrRecent": 47
-     },
-     "Eddy": {
-      "games": 5019,
-      "wrOverall": 49.8,
-      "wrRecent": 64
-     },
-     "Alisa": {
-      "games": 283,
-      "wrOverall": 46.6,
-      "wrRecent": 45
-     },
-     "Yoshimitsu": {
-      "games": 52,
-      "wrOverall": 42.3,
-      "wrRecent": 42.3
-     },
-     "Leroy": {
-      "games": 1116,
-      "wrOverall": 41.5,
-      "wrRecent": 45
-     }
-    },
-    "stopAfter": 20,
-    "dropPp": 3.6,
-    "riseAfter": 25,
-    "risePp": 3.5,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "정택",
    "id": "3d2BAJLQHF5d",
    "registeredAt": 1786245822,
@@ -4806,6 +4750,74 @@
     "dropPp": 3.8,
     "riseAfter": null,
     "risePp": null,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "chif",
+   "id": "3MjraFbFJq2E",
+   "registeredAt": 1786248335,
+   "stats": {
+    "id": "3MjraFbFJq2E",
+    "name": "chif",
+    "fetchedAt": 1786248335,
+    "games": 7474,
+    "lastPlayed": 1786086864,
+    "lastVersion": 30101,
+    "wrOverall": 47.7,
+    "wrRecent200": 54,
+    "rating": 1615,
+    "peakRating": 1789,
+    "mainChar": "Eddy",
+    "mainCharGames": 5019,
+    "chars": {
+     "Azucena": {
+      "games": 817,
+      "wrOverall": 43.3,
+      "wrRecent": 49,
+      "rating": 1402,
+      "peakRating": 1649
+     },
+     "Zafina": {
+      "games": 176,
+      "wrOverall": 50.6,
+      "wrRecent": 47,
+      "rating": 1303,
+      "peakRating": 1678
+     },
+     "Eddy": {
+      "games": 5019,
+      "wrOverall": 49.8,
+      "wrRecent": 64,
+      "rating": 1615,
+      "peakRating": 1789
+     },
+     "Alisa": {
+      "games": 283,
+      "wrOverall": 46.6,
+      "wrRecent": 45,
+      "rating": 1307,
+      "peakRating": 1468
+     },
+     "Yoshimitsu": {
+      "games": 52,
+      "wrOverall": 42.3,
+      "wrRecent": 42.3,
+      "rating": 1190,
+      "peakRating": 1675
+     },
+     "Leroy": {
+      "games": 1116,
+      "wrOverall": 41.5,
+      "wrRecent": 45,
+      "rating": 1427,
+      "peakRating": 1533
+     }
+    },
+    "stopAfter": 20,
+    "dropPp": 3.6,
+    "riseAfter": 25,
+    "risePp": 3.5,
     "adviceReliable": true
    }
   }
