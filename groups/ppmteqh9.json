@@ -872,6 +872,97 @@
     "risePp": null,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "BooA",
+   "id": "2RqN46r7RhB2",
+   "registeredAt": 1786243639,
+   "stats": {
+    "id": "2RqN46r7RhB2",
+    "name": "BooA",
+    "fetchedAt": 1786239825,
+    "games": 11345,
+    "lastPlayed": 1786208335,
+    "lastVersion": 30101,
+    "wrOverall": 52.3,
+    "wrRecent200": 49,
+    "rating": 2025,
+    "peakRating": 2135,
+    "mainChar": "Reina",
+    "mainCharGames": 4240,
+    "chars": {
+     "Azucena": {
+      "games": 939,
+      "wrOverall": 53.9,
+      "wrRecent": 54
+     },
+     "Hwoarang": {
+      "games": 3694,
+      "wrOverall": 52.3,
+      "wrRecent": 46
+     },
+     "Victor": {
+      "games": 21,
+      "wrOverall": 71.4,
+      "wrRecent": 71.4
+     },
+     "Reina": {
+      "games": 4240,
+      "wrOverall": 51,
+      "wrRecent": 49
+     },
+     "Dragunov": {
+      "games": 267,
+      "wrOverall": 53.6,
+      "wrRecent": 50
+     },
+     "Asuka": {
+      "games": 108,
+      "wrOverall": 63.9,
+      "wrRecent": 63
+     },
+     "Heihachi": {
+      "games": 1043,
+      "wrOverall": 53.8,
+      "wrRecent": 51
+     },
+     "Xiaoyu": {
+      "games": 534,
+      "wrOverall": 52.2,
+      "wrRecent": 62
+     },
+     "Bryan": {
+      "games": 230,
+      "wrOverall": 48.3,
+      "wrRecent": 47
+     },
+     "Panda": {
+      "games": 42,
+      "wrOverall": 59.5,
+      "wrRecent": 59.5
+     },
+     "Kuma": {
+      "games": 112,
+      "wrOverall": 52.7,
+      "wrRecent": 52
+     },
+     "Clive": {
+      "games": 66,
+      "wrOverall": 59.1,
+      "wrRecent": 59.1
+     },
+     "Zafina": {
+      "games": 43,
+      "wrOverall": 58.1,
+      "wrRecent": 58.1
+     }
+    },
+    "stopAfter": 40,
+    "dropPp": 8.4,
+    "riseAfter": null,
+    "risePp": null,
+    "adviceReliable": true
+   }
   }
  ]
 }
