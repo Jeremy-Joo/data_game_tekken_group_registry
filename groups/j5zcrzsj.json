@@ -4,47 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "강낭콩",
-   "id": "3ymBJLR8hidB",
-   "registeredAt": 1786245810,
-   "stats": {
-    "id": "3ymBJLR8hidB",
-    "name": "VF3 been",
-    "fetchedAt": 1786239931,
-    "games": 1154,
-    "lastPlayed": 1784370405,
-    "lastVersion": 30101,
-    "wrOverall": 60.7,
-    "wrRecent200": 60.5,
-    "rating": 1757,
-    "peakRating": 1852,
-    "mainChar": "Dragunov",
-    "mainCharGames": 524,
-    "chars": {
-     "Dragunov": {
-      "games": 524,
-      "wrOverall": 63,
-      "wrRecent": 61
-     },
-     "Fahkumram": {
-      "games": 435,
-      "wrOverall": 61.1,
-      "wrRecent": 65
-     },
-     "Law": {
-      "games": 175,
-      "wrOverall": 55.4,
-      "wrRecent": 52
-     }
-    },
-    "stopAfter": null,
-    "dropPp": null,
-    "riseAfter": 10,
-    "risePp": 3.7,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "Senet",
    "id": "5TgNddFLM5yf",
    "registeredAt": 1786245812,
@@ -4648,6 +4607,53 @@
     "dropPp": 3.6,
     "riseAfter": 5,
     "risePp": 4.5,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "강낭콩",
+   "id": "3ymBJLR8hidB",
+   "registeredAt": 1786248298,
+   "stats": {
+    "id": "3ymBJLR8hidB",
+    "name": "VF3 been",
+    "fetchedAt": 1786248298,
+    "games": 1154,
+    "lastPlayed": 1784370405,
+    "lastVersion": 30101,
+    "wrOverall": 60.7,
+    "wrRecent200": 60.5,
+    "rating": 1757,
+    "peakRating": 1852,
+    "mainChar": "Dragunov",
+    "mainCharGames": 524,
+    "chars": {
+     "Dragunov": {
+      "games": 524,
+      "wrOverall": 63,
+      "wrRecent": 61,
+      "rating": 1757,
+      "peakRating": 1852
+     },
+     "Fahkumram": {
+      "games": 435,
+      "wrOverall": 61.1,
+      "wrRecent": 65,
+      "rating": 1775,
+      "peakRating": 1790
+     },
+     "Law": {
+      "games": 175,
+      "wrOverall": 55.4,
+      "wrRecent": 52,
+      "rating": 1598,
+      "peakRating": 1806
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 10,
+    "risePp": 3.7,
     "adviceReliable": true
    }
   }
