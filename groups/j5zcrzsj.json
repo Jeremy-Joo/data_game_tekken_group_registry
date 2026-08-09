@@ -4,67 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "도전아재",
-   "id": "272hr9JhjjRT",
-   "registeredAt": 1786245788,
-   "stats": {
-    "id": "272hr9JhjjRT",
-    "name": "Old Challenger",
-    "fetchedAt": 1786239862,
-    "games": 14497,
-    "lastPlayed": 1786123627,
-    "lastVersion": 30101,
-    "wrOverall": 50.8,
-    "wrRecent200": 61,
-    "rating": 1854,
-    "peakRating": 2015,
-    "mainChar": "Kazuya",
-    "mainCharGames": 7446,
-    "chars": {
-     "Kazuya": {
-      "games": 7446,
-      "wrOverall": 49.5,
-      "wrRecent": 55
-     },
-     "Paul": {
-      "games": 749,
-      "wrOverall": 51.7,
-      "wrRecent": 48
-     },
-     "Devil Jin": {
-      "games": 2033,
-      "wrOverall": 53,
-      "wrRecent": 63
-     },
-     "Jin": {
-      "games": 2603,
-      "wrOverall": 50.8,
-      "wrRecent": 44
-     },
-     "King": {
-      "games": 1036,
-      "wrOverall": 53.7,
-      "wrRecent": 51
-     },
-     "Reina": {
-      "games": 454,
-      "wrOverall": 51.8,
-      "wrRecent": 47
-     },
-     "Zafina": {
-      "games": 160,
-      "wrOverall": 58.1,
-      "wrRecent": 56
-     }
-    },
-    "stopAfter": 30,
-    "dropPp": 3.5,
-    "riseAfter": null,
-    "risePp": null,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "면기",
    "id": "2QiGEFnN6QF8",
    "registeredAt": 1786245790,
@@ -4436,6 +4375,81 @@
     "dropPp": 4.3,
     "riseAfter": 30,
     "risePp": 3,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "도전아재",
+   "id": "272hr9JhjjRT",
+   "registeredAt": 1786248209,
+   "stats": {
+    "id": "272hr9JhjjRT",
+    "name": "Old Challenger",
+    "fetchedAt": 1786248209,
+    "games": 14497,
+    "lastPlayed": 1786123627,
+    "lastVersion": 30101,
+    "wrOverall": 50.8,
+    "wrRecent200": 61,
+    "rating": 1891,
+    "peakRating": 2015,
+    "mainChar": "Kazuya",
+    "mainCharGames": 7446,
+    "chars": {
+     "Kazuya": {
+      "games": 7446,
+      "wrOverall": 49.5,
+      "wrRecent": 55,
+      "rating": 1891,
+      "peakRating": 2015
+     },
+     "Paul": {
+      "games": 749,
+      "wrOverall": 51.7,
+      "wrRecent": 48,
+      "rating": 1662,
+      "peakRating": 1817
+     },
+     "Devil Jin": {
+      "games": 2033,
+      "wrOverall": 53,
+      "wrRecent": 63,
+      "rating": 1854,
+      "peakRating": 2011
+     },
+     "Jin": {
+      "games": 2603,
+      "wrOverall": 50.8,
+      "wrRecent": 44,
+      "rating": 1774,
+      "peakRating": 1900
+     },
+     "King": {
+      "games": 1036,
+      "wrOverall": 53.7,
+      "wrRecent": 51,
+      "rating": 1714,
+      "peakRating": 1903
+     },
+     "Reina": {
+      "games": 454,
+      "wrOverall": 51.8,
+      "wrRecent": 47,
+      "rating": 1660,
+      "peakRating": 1742
+     },
+     "Zafina": {
+      "games": 160,
+      "wrOverall": 58.1,
+      "wrRecent": 56,
+      "rating": 1620,
+      "peakRating": 1716
+     }
+    },
+    "stopAfter": 30,
+    "dropPp": 3.5,
+    "riseAfter": null,
+    "risePp": null,
     "adviceReliable": true
    }
   }
