@@ -3763,6 +3763,37 @@
     "risePp": 7.1,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "청순가련",
+   "id": "4Ab6aeQrHf2B",
+   "registeredAt": 1786245855,
+   "stats": {
+    "id": "4Ab6aeQrHf2B",
+    "name": "청순가련",
+    "fetchedAt": 1786240016,
+    "games": 634,
+    "lastPlayed": 1786232073,
+    "lastVersion": 30101,
+    "wrOverall": 45,
+    "wrRecent200": 43.5,
+    "rating": 1271,
+    "peakRating": 1513,
+    "mainChar": "Kunimitsu",
+    "mainCharGames": 634,
+    "chars": {
+     "Kunimitsu": {
+      "games": 634,
+      "wrOverall": 45,
+      "wrRecent": 53
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 0,
+    "risePp": 6.3,
+    "adviceReliable": true
+   }
   }
  ]
 }
