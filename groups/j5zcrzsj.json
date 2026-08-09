@@ -3696,6 +3696,37 @@
     "risePp": 8.6,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "금지옥엽",
+   "id": "4RgdJayAbTMh",
+   "registeredAt": 1786245853,
+   "stats": {
+    "id": "4RgdJayAbTMh",
+    "name": "금지옥엽",
+    "fetchedAt": 1786240011,
+    "games": 314,
+    "lastPlayed": 1786203011,
+    "lastVersion": 30101,
+    "wrOverall": 55.1,
+    "wrRecent200": 46.5,
+    "rating": 1221,
+    "peakRating": 1824,
+    "mainChar": "Bryan",
+    "mainCharGames": 314,
+    "chars": {
+     "Bryan": {
+      "games": 314,
+      "wrOverall": 55.1,
+      "wrRecent": 42
+     }
+    },
+    "stopAfter": 5,
+    "dropPp": 10,
+    "riseAfter": 0,
+    "risePp": 4.4,
+    "adviceReliable": false
+   }
   }
  ]
 }
