@@ -483,6 +483,47 @@
     "risePp": 7,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "배찌",
+   "id": "5t5TfN3Yfb48",
+   "registeredAt": 1786243632,
+   "stats": {
+    "id": "5t5TfN3Yfb48",
+    "name": "배찌의모험",
+    "fetchedAt": 1786239803,
+    "games": 7230,
+    "lastPlayed": 1786228387,
+    "lastVersion": 30101,
+    "wrOverall": 50.1,
+    "wrRecent200": 54.5,
+    "rating": 1520,
+    "peakRating": 2247,
+    "mainChar": "Zafina",
+    "mainCharGames": 6829,
+    "chars": {
+     "Zafina": {
+      "games": 6829,
+      "wrOverall": 51.6,
+      "wrRecent": 56
+     },
+     "Bryan": {
+      "games": 34,
+      "wrOverall": 5.9,
+      "wrRecent": 5.9
+     },
+     "Dragunov": {
+      "games": 345,
+      "wrOverall": 27.5,
+      "wrRecent": 31
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 30,
+    "risePp": 5.5,
+    "adviceReliable": true
+   }
   }
  ]
 }
