@@ -3344,6 +3344,67 @@
     "risePp": 6.1,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "comboy",
+   "id": "4JT5QF2MLNBd",
+   "registeredAt": 1786245840,
+   "stats": {
+    "id": "4JT5QF2MLNBd",
+    "name": "comboy",
+    "fetchedAt": 1786239994,
+    "games": 13660,
+    "lastPlayed": 1786239915,
+    "lastVersion": 30101,
+    "wrOverall": 43.6,
+    "wrRecent200": 40,
+    "rating": 1334,
+    "peakRating": 1768,
+    "mainChar": "Claudio",
+    "mainCharGames": 6263,
+    "chars": {
+     "Dragunov": {
+      "games": 4528,
+      "wrOverall": 45.1,
+      "wrRecent": 44
+     },
+     "Claudio": {
+      "games": 6263,
+      "wrOverall": 43.7,
+      "wrRecent": 45
+     },
+     "King": {
+      "games": 301,
+      "wrOverall": 39.9,
+      "wrRecent": 31
+     },
+     "Hwoarang": {
+      "games": 79,
+      "wrOverall": 17.7,
+      "wrRecent": 17.7
+     },
+     "Asuka": {
+      "games": 639,
+      "wrOverall": 41,
+      "wrRecent": 36
+     },
+     "Kazuya": {
+      "games": 1649,
+      "wrOverall": 42.9,
+      "wrRecent": 40
+     },
+     "Lili": {
+      "games": 112,
+      "wrOverall": 43.8,
+      "wrRecent": 47
+     }
+    },
+    "stopAfter": 25,
+    "dropPp": 3,
+    "riseAfter": 55,
+    "risePp": 4.8,
+    "adviceReliable": true
+   }
   }
  ]
 }
