@@ -2920,6 +2920,37 @@
     "risePp": 7.4,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "Generous",
+   "id": "2imYJHay7Yj6",
+   "registeredAt": 1786243689,
+   "stats": {
+    "id": "2imYJHay7Yj6",
+    "name": "Generous",
+    "fetchedAt": 1786239963,
+    "games": 4486,
+    "lastPlayed": 1786074716,
+    "lastVersion": 30101,
+    "wrOverall": 47.2,
+    "wrRecent200": 55,
+    "rating": 1590,
+    "peakRating": 1703,
+    "mainChar": "Asuka",
+    "mainCharGames": 4486,
+    "chars": {
+     "Asuka": {
+      "games": 4486,
+      "wrOverall": 47.2,
+      "wrRecent": 56
+     }
+    },
+    "stopAfter": 0,
+    "dropPp": 4.4,
+    "riseAfter": 15,
+    "risePp": 6.2,
+    "adviceReliable": true
+   }
   }
  ]
 }
