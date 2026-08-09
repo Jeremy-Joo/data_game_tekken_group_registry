@@ -1659,6 +1659,37 @@
     "risePp": 3.1,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "SOOP_KNEEDROP",
+   "id": "2h7rdL8enjiy",
+   "registeredAt": 1786243660,
+   "stats": {
+    "id": "2h7rdL8enjiy",
+    "name": "SOOP드롭이_",
+    "fetchedAt": 1786239885,
+    "games": 19812,
+    "lastPlayed": 1785713143,
+    "lastVersion": 30101,
+    "wrOverall": 48.7,
+    "wrRecent200": 45.5,
+    "rating": 1733,
+    "peakRating": 2100,
+    "mainChar": "Steve",
+    "mainCharGames": 19809,
+    "chars": {
+     "Steve": {
+      "games": 19809,
+      "wrOverall": 48.7,
+      "wrRecent": 42
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": null,
+    "risePp": null,
+    "adviceReliable": true
+   }
   }
  ]
 }
