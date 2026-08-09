@@ -4,72 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "메테오",
-   "id": "4LDH2FMFhqQa",
-   "registeredAt": 1786245766,
-   "stats": {
-    "id": "4LDH2FMFhqQa",
-    "name": "9lv Meteor",
-    "fetchedAt": 1786239794,
-    "games": 8252,
-    "lastPlayed": 1784741340,
-    "lastVersion": 30101,
-    "wrOverall": 55.9,
-    "wrRecent200": 57,
-    "rating": 2260,
-    "peakRating": 2410,
-    "mainChar": "Paul",
-    "mainCharGames": 3691,
-    "chars": {
-     "Paul": {
-      "games": 3691,
-      "wrOverall": 55.4,
-      "wrRecent": 55
-     },
-     "Steve": {
-      "games": 64,
-      "wrOverall": 64.1,
-      "wrRecent": 64.1
-     },
-     "Bryan": {
-      "games": 1874,
-      "wrOverall": 56,
-      "wrRecent": 42
-     },
-     "Victor": {
-      "games": 838,
-      "wrOverall": 56.3,
-      "wrRecent": 54
-     },
-     "Heihachi": {
-      "games": 951,
-      "wrOverall": 55.8,
-      "wrRecent": 72
-     },
-     "Dragunov": {
-      "games": 418,
-      "wrOverall": 55,
-      "wrRecent": 50
-     },
-     "Alisa": {
-      "games": 168,
-      "wrOverall": 64.9,
-      "wrRecent": 65
-     },
-     "Asuka": {
-      "games": 235,
-      "wrOverall": 56.6,
-      "wrRecent": 52
-     }
-    },
-    "stopAfter": 25,
-    "dropPp": 4.5,
-    "riseAfter": 10,
-    "risePp": 3.1,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "parkwolf",
    "id": "5nNy6eNfdf22",
    "registeredAt": 1786245767,
@@ -4132,6 +4066,88 @@
     "dropPp": 8.8,
     "riseAfter": 25,
     "risePp": 3.9,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "메테오",
+   "id": "4LDH2FMFhqQa",
+   "registeredAt": 1786248111,
+   "stats": {
+    "id": "4LDH2FMFhqQa",
+    "name": "9lv Meteor",
+    "fetchedAt": 1786248111,
+    "games": 8252,
+    "lastPlayed": 1784741340,
+    "lastVersion": 30101,
+    "wrOverall": 55.9,
+    "wrRecent200": 57,
+    "rating": 2260,
+    "peakRating": 2410,
+    "mainChar": "Paul",
+    "mainCharGames": 3691,
+    "chars": {
+     "Paul": {
+      "games": 3691,
+      "wrOverall": 55.4,
+      "wrRecent": 55,
+      "rating": 2260,
+      "peakRating": 2410
+     },
+     "Steve": {
+      "games": 64,
+      "wrOverall": 64.1,
+      "wrRecent": 64.1,
+      "rating": 1751,
+      "peakRating": 1890
+     },
+     "Bryan": {
+      "games": 1874,
+      "wrOverall": 56,
+      "wrRecent": 42,
+      "rating": 1952,
+      "peakRating": 2213
+     },
+     "Victor": {
+      "games": 838,
+      "wrOverall": 56.3,
+      "wrRecent": 54,
+      "rating": 2223,
+      "peakRating": 2223
+     },
+     "Heihachi": {
+      "games": 951,
+      "wrOverall": 55.8,
+      "wrRecent": 72,
+      "rating": 2102,
+      "peakRating": 2226
+     },
+     "Dragunov": {
+      "games": 418,
+      "wrOverall": 55,
+      "wrRecent": 50,
+      "rating": 1958,
+      "peakRating": 2015
+     },
+     "Alisa": {
+      "games": 168,
+      "wrOverall": 64.9,
+      "wrRecent": 65,
+      "rating": 1973,
+      "peakRating": 1973
+     },
+     "Asuka": {
+      "games": 235,
+      "wrOverall": 56.6,
+      "wrRecent": 52,
+      "rating": 1777,
+      "peakRating": 1839
+     }
+    },
+    "stopAfter": 25,
+    "dropPp": 4.5,
+    "riseAfter": 10,
+    "risePp": 3.1,
     "adviceReliable": true
    }
   }
