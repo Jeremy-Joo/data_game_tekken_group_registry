@@ -1040,6 +1040,52 @@
     "risePp": 5.1,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "박엘비",
+   "id": "5b6HdHfeLLhJ",
+   "registeredAt": 1786243644,
+   "stats": {
+    "id": "5b6HdHfeLLhJ",
+    "name": "KMS 박엘비",
+    "fetchedAt": 1786239835,
+    "games": 3967,
+    "lastPlayed": 1785496663,
+    "lastVersion": 30101,
+    "wrOverall": 53.3,
+    "wrRecent200": 51.5,
+    "rating": 1973,
+    "peakRating": 2140,
+    "mainChar": "Bryan",
+    "mainCharGames": 2954,
+    "chars": {
+     "Bryan": {
+      "games": 2954,
+      "wrOverall": 53.2,
+      "wrRecent": 48
+     },
+     "Kazuya": {
+      "games": 269,
+      "wrOverall": 50.6,
+      "wrRecent": 56
+     },
+     "Jin": {
+      "games": 234,
+      "wrOverall": 57.3,
+      "wrRecent": 54
+     },
+     "Lili": {
+      "games": 510,
+      "wrOverall": 53.5,
+      "wrRecent": 49
+     }
+    },
+    "stopAfter": 5,
+    "dropPp": 5.7,
+    "riseAfter": 0,
+    "risePp": 3.1,
+    "adviceReliable": true
+   }
   }
  ]
 }
