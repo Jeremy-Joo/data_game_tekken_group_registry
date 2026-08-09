@@ -2303,6 +2303,77 @@
     "risePp": 3.7,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "Senet",
+   "id": "5TgNddFLM5yf",
+   "registeredAt": 1786245812,
+   "stats": {
+    "id": "5TgNddFLM5yf",
+    "name": "Senet",
+    "fetchedAt": 1786239934,
+    "games": 1940,
+    "lastPlayed": 1780662584,
+    "lastVersion": 30101,
+    "wrOverall": 60.4,
+    "wrRecent200": 70,
+    "rating": 1921,
+    "peakRating": 2075,
+    "mainChar": "Kuma",
+    "mainCharGames": 826,
+    "chars": {
+     "Alisa": {
+      "games": 73,
+      "wrOverall": 83.6,
+      "wrRecent": 83.6
+     },
+     "Kuma": {
+      "games": 826,
+      "wrOverall": 57.4,
+      "wrRecent": 66
+     },
+     "Reina": {
+      "games": 25,
+      "wrOverall": 56,
+      "wrRecent": 56
+     },
+     "Azucena": {
+      "games": 67,
+      "wrOverall": 55.2,
+      "wrRecent": 55.2
+     },
+     "Shaheen": {
+      "games": 26,
+      "wrOverall": 84.6,
+      "wrRecent": 84.6
+     },
+     "Panda": {
+      "games": 671,
+      "wrOverall": 62.7,
+      "wrRecent": 71
+     },
+     "Bryan": {
+      "games": 113,
+      "wrOverall": 48.7,
+      "wrRecent": 45
+     },
+     "Clive": {
+      "games": 55,
+      "wrOverall": 74.5,
+      "wrRecent": 74.5
+     },
+     "Law": {
+      "games": 41,
+      "wrOverall": 68.3,
+      "wrRecent": 68.3
+     }
+    },
+    "stopAfter": 0,
+    "dropPp": 3.6,
+    "riseAfter": 5,
+    "risePp": 7.7,
+    "adviceReliable": true
+   }
   }
  ]
 }
