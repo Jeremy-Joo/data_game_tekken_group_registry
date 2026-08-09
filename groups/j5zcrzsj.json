@@ -4,37 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "blursick",
-   "id": "3N5Y87itdjnE",
-   "registeredAt": 1786245847,
-   "stats": {
-    "id": "3N5Y87itdjnE",
-    "name": "blursick",
-    "fetchedAt": 1786240004,
-    "games": 101,
-    "lastPlayed": 1785077935,
-    "lastVersion": 30101,
-    "wrOverall": 71.3,
-    "wrRecent200": 71.3,
-    "rating": 1368,
-    "peakRating": 2121,
-    "mainChar": "Leo",
-    "mainCharGames": 100,
-    "chars": {
-     "Leo": {
-      "games": 100,
-      "wrOverall": 71,
-      "wrRecent": 71
-     }
-    },
-    "stopAfter": null,
-    "dropPp": null,
-    "riseAfter": null,
-    "risePp": null,
-    "adviceReliable": false
-   }
-  },
-  {
    "nick": "SAJAHOO",
    "id": "4BDbJNetHNME",
    "registeredAt": 1786245849,
@@ -4943,6 +4912,39 @@
     "riseAfter": 20,
     "risePp": 5.7,
     "adviceReliable": true
+   }
+  },
+  {
+   "nick": "blursick",
+   "id": "3N5Y87itdjnE",
+   "registeredAt": 1786248413,
+   "stats": {
+    "id": "3N5Y87itdjnE",
+    "name": "blursick",
+    "fetchedAt": 1786248413,
+    "games": 101,
+    "lastPlayed": 1785077935,
+    "lastVersion": 30101,
+    "wrOverall": 71.3,
+    "wrRecent200": 71.3,
+    "rating": 1368,
+    "peakRating": 2121,
+    "mainChar": "Leo",
+    "mainCharGames": 100,
+    "chars": {
+     "Leo": {
+      "games": 100,
+      "wrOverall": 71,
+      "wrRecent": 71,
+      "rating": 1368,
+      "peakRating": 2121
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": null,
+    "risePp": null,
+    "adviceReliable": false
    }
   }
  ]
