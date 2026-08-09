@@ -963,6 +963,37 @@
     "risePp": null,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "살살해",
+   "id": "56T92bbH594f",
+   "registeredAt": 1786245777,
+   "stats": {
+    "id": "56T92bbH594f",
+    "name": "·살살해·",
+    "fetchedAt": 1786239828,
+    "games": 1600,
+    "lastPlayed": 1780585789,
+    "lastVersion": 30101,
+    "wrOverall": 61.2,
+    "wrRecent200": 60.5,
+    "rating": 2047,
+    "peakRating": 2147,
+    "mainChar": "Hwoarang",
+    "mainCharGames": 1600,
+    "chars": {
+     "Hwoarang": {
+      "games": 1600,
+      "wrOverall": 61.2,
+      "wrRecent": 62
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 0,
+    "risePp": 4.6,
+    "adviceReliable": true
+   }
   }
  ]
 }
