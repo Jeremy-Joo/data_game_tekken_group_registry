@@ -4,67 +4,6 @@
  "createdAt": 1786245759,
  "members": [
   {
-   "nick": "수영장파티킹",
-   "id": "5nnmJgGRBFyf",
-   "registeredAt": 1786245805,
-   "stats": {
-    "id": "5nnmJgGRBFyf",
-    "name": "수영장파티킹",
-    "fetchedAt": 1786239914,
-    "games": 3142,
-    "lastPlayed": 1785504957,
-    "lastVersion": 30101,
-    "wrOverall": 53,
-    "wrRecent200": 64,
-    "rating": 1862,
-    "peakRating": 2149,
-    "mainChar": "King",
-    "mainCharGames": 1788,
-    "chars": {
-     "King": {
-      "games": 1788,
-      "wrOverall": 54,
-      "wrRecent": 58
-     },
-     "Paul": {
-      "games": 74,
-      "wrOverall": 56.8,
-      "wrRecent": 56.8
-     },
-     "Leroy": {
-      "games": 328,
-      "wrOverall": 52.7,
-      "wrRecent": 54
-     },
-     "Devil Jin": {
-      "games": 31,
-      "wrOverall": 51.6,
-      "wrRecent": 51.6
-     },
-     "Bryan": {
-      "games": 380,
-      "wrOverall": 46.3,
-      "wrRecent": 51
-     },
-     "Dragunov": {
-      "games": 34,
-      "wrOverall": 47.1,
-      "wrRecent": 47.1
-     },
-     "Armor King": {
-      "games": 488,
-      "wrOverall": 55.1,
-      "wrRecent": 69
-     }
-    },
-    "stopAfter": null,
-    "dropPp": null,
-    "riseAfter": 20,
-    "risePp": 7.7,
-    "adviceReliable": true
-   }
-  },
-  {
    "nick": "챔스",
    "id": "4AjN4QyHgBh6",
    "registeredAt": 1786245807,
@@ -4618,6 +4557,81 @@
     "dropPp": 3.2,
     "riseAfter": 30,
     "risePp": 5.3,
+    "adviceReliable": true
+   }
+  },
+  {
+   "nick": "수영장파티킹",
+   "id": "5nnmJgGRBFyf",
+   "registeredAt": 1786248275,
+   "stats": {
+    "id": "5nnmJgGRBFyf",
+    "name": "수영장파티킹",
+    "fetchedAt": 1786248275,
+    "games": 3142,
+    "lastPlayed": 1785504957,
+    "lastVersion": 30101,
+    "wrOverall": 53,
+    "wrRecent200": 64,
+    "rating": 1862,
+    "peakRating": 2149,
+    "mainChar": "King",
+    "mainCharGames": 1788,
+    "chars": {
+     "King": {
+      "games": 1788,
+      "wrOverall": 54,
+      "wrRecent": 58,
+      "rating": 1862,
+      "peakRating": 2149
+     },
+     "Paul": {
+      "games": 74,
+      "wrOverall": 56.8,
+      "wrRecent": 56.8,
+      "rating": 1516,
+      "peakRating": 1577
+     },
+     "Leroy": {
+      "games": 328,
+      "wrOverall": 52.7,
+      "wrRecent": 54,
+      "rating": 1773,
+      "peakRating": 1780
+     },
+     "Devil Jin": {
+      "games": 31,
+      "wrOverall": 51.6,
+      "wrRecent": 51.6,
+      "rating": 1573,
+      "peakRating": 1823
+     },
+     "Bryan": {
+      "games": 380,
+      "wrOverall": 46.3,
+      "wrRecent": 51,
+      "rating": 1538,
+      "peakRating": 1638
+     },
+     "Dragunov": {
+      "games": 34,
+      "wrOverall": 47.1,
+      "wrRecent": 47.1,
+      "rating": 1407,
+      "peakRating": 1485
+     },
+     "Armor King": {
+      "games": 488,
+      "wrOverall": 55.1,
+      "wrRecent": 69,
+      "rating": 1885,
+      "peakRating": 1885
+     }
+    },
+    "stopAfter": null,
+    "dropPp": null,
+    "riseAfter": 20,
+    "risePp": 7.7,
     "adviceReliable": true
    }
   }
