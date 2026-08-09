@@ -1420,6 +1420,67 @@
     "risePp": 3,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "도전아재",
+   "id": "272hr9JhjjRT",
+   "registeredAt": 1786245788,
+   "stats": {
+    "id": "272hr9JhjjRT",
+    "name": "Old Challenger",
+    "fetchedAt": 1786239862,
+    "games": 14497,
+    "lastPlayed": 1786123627,
+    "lastVersion": 30101,
+    "wrOverall": 50.8,
+    "wrRecent200": 61,
+    "rating": 1854,
+    "peakRating": 2015,
+    "mainChar": "Kazuya",
+    "mainCharGames": 7446,
+    "chars": {
+     "Kazuya": {
+      "games": 7446,
+      "wrOverall": 49.5,
+      "wrRecent": 55
+     },
+     "Paul": {
+      "games": 749,
+      "wrOverall": 51.7,
+      "wrRecent": 48
+     },
+     "Devil Jin": {
+      "games": 2033,
+      "wrOverall": 53,
+      "wrRecent": 63
+     },
+     "Jin": {
+      "games": 2603,
+      "wrOverall": 50.8,
+      "wrRecent": 44
+     },
+     "King": {
+      "games": 1036,
+      "wrOverall": 53.7,
+      "wrRecent": 51
+     },
+     "Reina": {
+      "games": 454,
+      "wrOverall": 51.8,
+      "wrRecent": 47
+     },
+     "Zafina": {
+      "games": 160,
+      "wrOverall": 58.1,
+      "wrRecent": 56
+     }
+    },
+    "stopAfter": 30,
+    "dropPp": 3.5,
+    "riseAfter": null,
+    "risePp": null,
+    "adviceReliable": true
+   }
   }
  ]
 }
