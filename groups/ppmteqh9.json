@@ -1147,6 +1147,82 @@
     "risePp": 4.4,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "끵끵소",
+   "id": "4gd8T8dNT2Gh",
+   "registeredAt": 1786243648,
+   "stats": {
+    "id": "4gd8T8dNT2Gh",
+    "name": "낑낑카우",
+    "fetchedAt": 1786239845,
+    "games": 6201,
+    "lastPlayed": 1786236996,
+    "lastVersion": 30101,
+    "wrOverall": 55.9,
+    "wrRecent200": 54.5,
+    "rating": 1920,
+    "peakRating": 2125,
+    "mainChar": "Devil Jin",
+    "mainCharGames": 1426,
+    "chars": {
+     "Bryan": {
+      "games": 1355,
+      "wrOverall": 56.5,
+      "wrRecent": 54
+     },
+     "Kazuya": {
+      "games": 897,
+      "wrOverall": 53.6,
+      "wrRecent": 62
+     },
+     "Heihachi": {
+      "games": 1311,
+      "wrOverall": 53.5,
+      "wrRecent": 47
+     },
+     "Devil Jin": {
+      "games": 1426,
+      "wrOverall": 56.9,
+      "wrRecent": 46
+     },
+     "Reina": {
+      "games": 26,
+      "wrOverall": 57.7,
+      "wrRecent": 57.7
+     },
+     "Paul": {
+      "games": 221,
+      "wrOverall": 58.8,
+      "wrRecent": 51
+     },
+     "Fahkumram": {
+      "games": 201,
+      "wrOverall": 62.2,
+      "wrRecent": 54
+     },
+     "Jin": {
+      "games": 216,
+      "wrOverall": 57.4,
+      "wrRecent": 52
+     },
+     "Law": {
+      "games": 144,
+      "wrOverall": 58.3,
+      "wrRecent": 53
+     },
+     "Armor King": {
+      "games": 390,
+      "wrOverall": 55.9,
+      "wrRecent": 57
+     }
+    },
+    "stopAfter": 0,
+    "dropPp": 3.1,
+    "riseAfter": 30,
+    "risePp": 3.7,
+    "adviceReliable": true
+   }
   }
  ]
 }
