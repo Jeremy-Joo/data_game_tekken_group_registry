@@ -3033,6 +3033,37 @@
     "risePp": 7.9,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "프리파워",
+   "id": "5bY9B4ryGh2a",
+   "registeredAt": 1786243695,
+   "stats": {
+    "id": "5bY9B4ryGh2a",
+    "name": "프리파워",
+    "fetchedAt": 1786239972,
+    "games": 3876,
+    "lastPlayed": 1785085451,
+    "lastVersion": 30101,
+    "wrOverall": 43.9,
+    "wrRecent200": 53,
+    "rating": 1548,
+    "peakRating": 1568,
+    "mainChar": "Lee",
+    "mainCharGames": 3876,
+    "chars": {
+     "Lee": {
+      "games": 3876,
+      "wrOverall": 43.9,
+      "wrRecent": 51
+     }
+    },
+    "stopAfter": 35,
+    "dropPp": 5.6,
+    "riseAfter": 50,
+    "risePp": 3.5,
+    "adviceReliable": true
+   }
   }
  ]
 }
