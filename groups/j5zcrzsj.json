@@ -3405,6 +3405,62 @@
     "risePp": 4.8,
     "adviceReliable": true
    }
+  },
+  {
+   "nick": "시아루Lu",
+   "id": "3fb3ry7RjtmG",
+   "registeredAt": 1786245842,
+   "stats": {
+    "id": "3fb3ry7RjtmG",
+    "name": "시아루Lu",
+    "fetchedAt": 1786239997,
+    "games": 1703,
+    "lastPlayed": 1780700246,
+    "lastVersion": 30101,
+    "wrOverall": 57,
+    "wrRecent200": 62,
+    "rating": 1607,
+    "peakRating": 2043,
+    "mainChar": "Alisa",
+    "mainCharGames": 699,
+    "chars": {
+     "Zafina": {
+      "games": 654,
+      "wrOverall": 54.7,
+      "wrRecent": 67
+     },
+     "Kuma": {
+      "games": 64,
+      "wrOverall": 73.4,
+      "wrRecent": 73.4
+     },
+     "Dragunov": {
+      "games": 129,
+      "wrOverall": 55,
+      "wrRecent": 55
+     },
+     "Lili": {
+      "games": 65,
+      "wrOverall": 52.3,
+      "wrRecent": 52.3
+     },
+     "Alisa": {
+      "games": 699,
+      "wrOverall": 57.9,
+      "wrRecent": 59
+     },
+     "Lars": {
+      "games": 90,
+      "wrOverall": 61.1,
+      "wrRecent": 61.1
+     }
+    },
+    "stopAfter": 0,
+    "dropPp": 3.6,
+    "riseAfter": 15,
+    "risePp": 4,
+    "adviceReliable": true
+   }
   }
  ]
 }
